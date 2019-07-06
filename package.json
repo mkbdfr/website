@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.8.3"
+  },
+  "dependencies": {
+    "@11ty/eleventy-plugin-rss": "^1.0.6",
+    "luxon": "^1.16.1"
   }
 }
