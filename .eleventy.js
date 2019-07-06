@@ -3,6 +3,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("cssmin", function(code) {
     return new CleanCSS({}).minify(code).styles;
   });
+  eleventyConfig.addPassthroughCopy("./src/img");
   return {
     pathPrefix: "/mkfr/",
     dir: {
@@ -13,3 +14,4 @@ module.exports = function(eleventyConfig) {
     }
   };
 };
+
