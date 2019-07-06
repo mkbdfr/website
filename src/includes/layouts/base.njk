@@ -12,7 +12,7 @@ images:
       {% endset %}
       <!-- feed it through our cssmin filter to minify -->
       <style>
-  {{ css | cssmin | safe }}
+  {{ css | postCSS | cssmin | safe }}
 </style>
     </head>
     <body>
