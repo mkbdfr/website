@@ -3,7 +3,7 @@ layout: layouts/page.njk
 tags:
   - nav
 navtitle: Pages Jaunes
-title: Hot Take—Social Media is Considered Harmful
+title: Pages Jaunes
 ---
 
 # Pages Jaunes
