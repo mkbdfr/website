@@ -1,4 +1,4 @@
-# MK Fr website
+# MK Fr website [![Build Status](https://travis-ci.org/zekth/mkfr.svg?branch=master)](https://travis-ci.org/zekth/mkfr)
 
 ```
 npm install
