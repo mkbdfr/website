@@ -5,3 +5,5 @@ npm install
 npm run serve // serve local server
 npm run build // build website
 ```
+
+Link: [https://zekth.github.io/mkfr/](https://zekth.github.io/mkfr/)
