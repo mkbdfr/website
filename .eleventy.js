@@ -39,6 +39,7 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
   });
   eleventyConfig.addPassthroughCopy("./src/img");
+  eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   return {
     pathPrefix: "/mkfr/",
     dir: {
