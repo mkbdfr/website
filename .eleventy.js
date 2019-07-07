@@ -4,22 +4,28 @@ const { sassPlugin } = require("./scripts/scss-gen");
 const fs = require("fs");
 const path = require("path");
 const sharp = require("sharp");
-const keebImgSizes = [{ suffix: "320", size: [320, 240] }];
 if (!fs.existsSync("./dist")) {
   fs.mkdirSync("./dist");
 }
-const imgParse = async options => {
+const keebImgSizes = [
+  { suffix: "thumb", crop: true, size: [150, 150] },
+  { suffix: "320", size: [320, 240] }
+];
+const imgParse = async () => {
   const srcDir = "./src/img-keebs";
   const outDir = "./dist/img-keebs";
-  const imgKeebs = fs.readdirSync(srcDir);
-  for (const img of imgKeebs) {
+  if (!fs.existsSync(path.resolve(outDir))) {
+    fs.mkdirSync(path.resolve(outDir), { recursive: true });
+  }
+  for (const img of fs.readdirSync(srcDir)) {
     const f = path.resolve(path.join(srcDir, img));
     for (const s of keebImgSizes) {
       const arrImgFilename = img.split(".");
       const file = arrImgFilename[0] + `-${s.suffix}`;
       const ext = arrImgFilename[1];
+      const fit = s.crop ? "cover" : "inside";
       await sharp(f)
-        .resize(s.size[0], s.size[1], { fit: "inside" })
+        .resize(s.size[0], s.size[1], { fit: fit })
         .toFile(path.resolve(path.join(outDir, `${file}.${ext}`)));
     }
   }
