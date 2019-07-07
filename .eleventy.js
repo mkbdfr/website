@@ -38,6 +38,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("htmlDateString", dateObj => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
   });
+  eleventyConfig.addNunjucksFilter("basefilename", function(value) {
+    const arr = value.split('.');
+    arr.pop();
+    return arr.join('.');
+  });
   eleventyConfig.addPassthroughCopy("./src/img");
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   return {

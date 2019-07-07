@@ -9,5 +9,16 @@
     "photos": [
       "zekth-60-1.jpg"
     ]
+  },
+  {
+    "owner": "Zekth",
+    "name": "Stealth Split",
+    "pcb": "Keeb.io Quefrency 60%",
+    "switches": "Kailh Box Black",
+    "keyset": "Gentleman Black PBT",
+    "description": "Clavier split tout pété",
+    "photos": [
+      "zekth-quefrency-1.jpg"
+    ]
   }
 ]
