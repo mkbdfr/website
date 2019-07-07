@@ -5,15 +5,20 @@ const fs = require("fs");
 const CleanCSS = require("clean-css");
 
 const sassPlugin = async () => {
-  const compiled = sass
-    .renderSync({
-      data: fs.readFileSync("./src/includes/style.scss", "utf8")
-    })
-    .css.toString();
-  const autoPrefixed = postcss([autoprefixer]).process(compiled).css;
-  const minified = new CleanCSS({}).minify(autoPrefixed).styles;
-  fs.writeFileSync("./dist/style.css", autoPrefixed);
-  fs.writeFileSync("./dist/style.min.css", minified);
+  try {
+    const compiled = sass
+      .renderSync({
+        file: "./src/includes/style.scss",
+      })
+      .css.toString();
+    const autoPrefixed = postcss([autoprefixer]).process(compiled).css;
+    const minified = new CleanCSS({}).minify(autoPrefixed).styles;
+    fs.writeFileSync("./dist/style.css", autoPrefixed);
+    fs.writeFileSync("./dist/style.min.css", minified);
+  } catch (e) {
+    console.error(e);
+    throw e;
+  }
 };
 module.exports = {
   sassPlugin
