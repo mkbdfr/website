@@ -1,0 +1,12 @@
+---
+layout: layouts/page.njk
+tags:
+  - nav
+navtitle: Keebs
+title: Keebs
+---
+
+{%- for k in keebs %}
+  {{ k.pcb }}
+  <img style="max-height:200px;max-width:300px;" src="{{ '/img/keebs/' | url }}{{ k.photos[0] }}"/>
+{%- endfor %}
