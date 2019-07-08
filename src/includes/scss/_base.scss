@@ -1,5 +1,8 @@
 body {
     background:#222;
+    font-feature-settings: 'onum' 1;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: 'kern' 1;
 }
 
 main.tmpl-page{
@@ -23,6 +26,10 @@ section {
       -webkit-text-fill-color: transparent;
       -webkit-box-decoration-break: clone;
     }
+}
+
+section.narrow {
+    max-width:860px;
 }
 
 
@@ -58,4 +65,18 @@ h3 {
     font-size: 2vw;
     line-height: 1;
     margin-bottom:10px;
+}
+
+a {
+   color:#FFD14A;
+    &:hover{
+      text-decoration:none;
+
+    }
+}
+
+
+p {
+    color:white;
+    margin-bottom: 10px;
 }

@@ -18,6 +18,7 @@
         i{
           color:white;
           font-size: 10vw;
+          transition: 0.25s;
           &:hover{
             background: linear-gradient(150deg, #FFD14A 15%, #FE8BC4 70%, #D084FE 94%);
             background-clip: border-box;
