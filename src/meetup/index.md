@@ -6,4 +6,4 @@ navtitle: Meetup
 title: Meetup
 ---
 
-Meetups
+More info soon
