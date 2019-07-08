@@ -1,0 +1,90 @@
+
+.jumbotron {
+    width:100%;
+    height:500px;
+    margin-bottom: 60px;
+    color:white;
+    position: relative;
+}
+
+.jumbotron__image {
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height:100%;
+    background: -webkit-linear-gradient(300deg,rgba(255,209, 74, 0.9) 15%, rgba(254,139, 196, 0.9) 40%,rgba(108,132,254,0.9) 94%), url('img/bg.jpg') no-repeat;
+    background: -o-linear-gradient(300deg,rgba(255,209, 74, 0.9) 15%, rgba(254,139, 196, 0.9) 40%,rgba(108,132,254,0.9) 94%), url('img/bg.jpg') no-repeat;
+    background: linear-gradient(150deg,rgba(255,209, 74, 0.9) 15%, rgba(254,139, 196, 0.9) 40%,rgba(108,132,254,0.9) 94%), url('img/bg.jpg') no-repeat;
+    background-size: cover;
+    -webkit-transform-origin: 50% 100%;
+        -ms-transform-origin: 50% 100%;
+            transform-origin: 50% 100%;
+}
+
+.jumbotron__content {
+    max-width:1040px;
+    margin:auto;
+    display:flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.jumbotron__title {
+    text-align: center;
+    font-size: 6vw;
+    line-height: 1;
+    text-transform: uppercase;
+    color:white;
+    background:none;
+    text-align: center;
+    -webkit-text-fill-color: unset;
+}
+
+.jumbotron__sublabel {
+    text-align: center;
+    font-size: 18px;
+}
+
+.jumbotron__bouton {
+  border: 1px solid white;
+  border-radius: 3px;
+  background:transparent;
+  height: 45px;
+  margin: 2px;
+  border-width: 3px 7px 10px;
+  border-left-width: 7px;
+  border-style: solid;
+  border-radius: 4px;
+  float: left;
+  width:auto;
+  padding-left: 5px;
+  padding-right: 5px;
+  color:#333;
+    background: #fff;
+    border-color: #d8d7d7 #bdbdbd #727272;
+    box-shadow: 1px 3px 3px #333;
+    &:hover {
+      cursor:pointer;
+      text-decoration: none;
+      color:#333;
+  }
+  &:active {
+    transform: scale(0.95, 0.95);
+}
+}
+
+.keycap {
+    width: inherit;
+    height: inherit;
+    font-size: 15px;
+    line-height: 45px;
+    text-indent: 7px;
+    background: #333;
+    background: linear-gradient(to right, rgb(250, 249, 249), #d8d7d7, #fff);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    position: relative;
+  }
+  

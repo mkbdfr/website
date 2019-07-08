@@ -1,0 +1,61 @@
+body {
+    background:#222;
+}
+
+main.tmpl-page{
+  min-height: 600px;
+}
+
+section {
+    max-width:1040px;
+    margin: auto;
+    margin-bottom: 60px;
+    color:white;
+    padding:0 20px;
+    &.home_intro {
+      text-align: center;
+      font-weight: 900;
+      font-size: 2vw;
+      background: linear-gradient(150deg, #FFD14A 15%, #FE8BC4 70%, #D084FE 94%);
+      background-clip: border-box;
+      box-decoration-break: clone;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      -webkit-box-decoration-break: clone;
+    }
+}
+
+
+h1, h2, h3 {
+    text-transform: uppercase;
+    background: -webkit-linear-gradient(300deg,#FFD14A 15%,#FE8BC4 70%,#D084FE 94%);
+    background: -o-linear-gradient(300deg,#FFD14A 15%,#FE8BC4 70%,#D084FE 94%);
+    background: linear-gradient(150deg,#FFD14A 15%,#FE8BC4 70%,#D084FE 94%);
+    background-clip: border-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 5vw;
+    line-height: 1;
+    margin-bottom:30px;
+}
+
+h2 {
+    font-weight: 900;
+    font-size: 3vw;
+    line-height: 1;
+    margin-bottom:20px;
+}
+
+h3 {
+    font-weight: 900;
+    font-size: 2vw;
+    line-height: 1;
+    margin-bottom:10px;
+}
