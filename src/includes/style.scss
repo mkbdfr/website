@@ -18,7 +18,9 @@ header {
             justify-content:center;
     margin-bottom: 60px;
 }
-
+main.tmpl-page{
+  min-height: 600px;
+}
 .header-bg {
     position:absolute;
     content:" ";
@@ -117,6 +119,41 @@ section {
     }
 }
 
+footer{
+  border-top: solid 1px black;
+  background-color: #171717;
+  width:100%;
+  margin-top: 20px;
+  height:150px;
+  color:white;
+  position: relative;
+  section{
+    p{
+      margin-top: 20px;
+      text-align: right;
+      a{
+        text-decoration: none;
+        &:hover{
+          text-decoration: none;
+          color:transparent;
+        }
+        i{
+          font-size: 3vw!important;
+          color:white;
+          font-size: 10vw;
+          &:hover{
+            background: linear-gradient(150deg, #FFD14A 15%, #FE8BC4 70%, #D084FE 94%);
+            background-clip: border-box;
+            box-decoration-break: clone;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            -webkit-box-decoration-break: clone;
+          }
+        }
+      }
+    }
+    }
+  }
 
 .communaute {
   height:100%;
