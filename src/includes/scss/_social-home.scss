@@ -1,0 +1,49 @@
+
+.communaute {
+    height:100%;
+     display:-webkit-box;
+     display:-ms-flexbox;
+     display:flex;
+     -webkit-box-orient:horizontal;
+     -webkit-box-direction:normal;
+         -ms-flex-flow:row nowrap;
+             flex-flow:row nowrap;
+     -ms-flex-pack: distribute;
+         justify-content: space-around;
+         svg {
+          max-width:130px;
+          height:auto;
+      }
+      a{
+        i{
+          color:white;
+          font-size: 10vw;
+          transition: 0.25s;
+          &:hover{
+            background: linear-gradient(150deg, #FFD14A 15%, #FE8BC4 70%, #D084FE 94%);
+            background-clip: border-box;
+            box-decoration-break: clone;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            -webkit-box-decoration-break: clone;
+          }
+        }
+      }
+  }
+
+  .communaute-title {
+      text-align:center;
+      text-transform: uppercase;
+      font-size: 2.5vw;
+      font-weight: 700;
+      background: -webkit-linear-gradient(300deg,#FFD14A 15%,#FE8BC4 40%,#D084FE 94%);
+      background: -o-linear-gradient(300deg,#FFD14A 15%,#FE8BC4 40%,#D084FE 94%);
+      background: linear-gradient(150deg,#FFD14A 15%,#FE8BC4 40%,#D084FE 94%);
+      background-clip: border-box;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      -webkit-box-decoration-break: clone;
+      box-decoration-break: clone;
+      margin-bottom:20px;
+  }
+
