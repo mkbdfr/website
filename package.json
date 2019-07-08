@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "chk:data":"node ./scripts/check-keebs-data.js",
     "watchscss": "node scripts/watch-scss.js",
     "eleventyServe": "eleventy --serve",
     "serve": "npm-run-all --parallel eleventyServe watchscss",

@@ -11,6 +11,7 @@ cache:
 install:
   - npm install
 script:
+  - npm run chk:data
   - npm run build
 
 deploy:
