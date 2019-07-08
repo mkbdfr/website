@@ -1,0 +1,28 @@
+---
+layout: layouts/page.njk
+tags:
+  - nav
+navtitle: Keebs
+title: Keebs
+---
+<table style="color:white">
+  <tr>
+    <th>img</th>
+    <th>Content</th>
+  </tr>
+  {%- for k in keebs %}
+    <tr>
+      <td><img src="{{ '/img-keebs/' | url }}{{ k.photos[0] | basefilename }}-320.jpg"/></td>
+      <td>
+        <ul>
+          <li>owner: {{ k.owner }}</li>
+          <li>name: {{ k.name }}</li>
+          <li>pcb: {{ k.pcb }}</li>
+          <li>switches: {{ k.switches }}</li>
+          <li>keyset: {{ k.keyset }}</li>
+        </ul>
+        <p>{{ k.description }}</p>
+      </td>
+    </tr>
+  {%- endfor %}
+</table>
