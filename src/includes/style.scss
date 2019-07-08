@@ -104,6 +104,17 @@ section {
     margin: auto;
     margin-bottom: 60px;
     color:white;
+    &.home_intro {
+      text-align: center;
+      font-weight: 900;
+      font-size: 2vw;
+      background: linear-gradient(150deg, #FFD14A 15%, #FE8BC4 70%, #D084FE 94%);
+      background-clip: border-box;
+      box-decoration-break: clone;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      -webkit-box-decoration-break: clone;
+    }
 }
 
 
