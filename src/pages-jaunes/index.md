@@ -18,7 +18,7 @@ title: Pages Jaunes
 - [https://typehype.net/](https://typehype.net/)
 - [https://www.keebtalk.com/](https://www.keebtalk.com/)
 - [https://agoramech.com/](https://agoramech.com/)
-
+<img src="#"/>
 **Bonus**
 - [http://keyboardcatalog.com/](http://keyboardcatalog.com/)
 - [https://plot.ly/~haata#/](https://plot.ly/~haata#/)
