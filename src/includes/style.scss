@@ -4,3 +4,19 @@
 @import './scss/footer';
 @import './scss/jumbotron-home';
 @import './scss/social-home';
+
+
+
+@media (max-width:500px) {
+    h1 {
+        font-size: 4rem;
+    }
+
+    h2 {
+        font-size: 3rem;
+    }
+    
+    .big-title {
+        font-size: 4rem;
+    }
+}

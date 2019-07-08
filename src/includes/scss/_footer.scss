@@ -9,6 +9,7 @@ footer{
     position: relative;
     margin-top: 20px;
     padding:20px;
+    flex-shrink: 0;
 }
 
 .footer__social {
@@ -24,9 +25,8 @@ footer{
     }
 
     i {
-      font-size: 3vw!important;
       color:white;
-      font-size: 10vw;
+      font-size: 40px;
       
       &:hover{
         background: linear-gradient(150deg, #FFD14A 15%, #FE8BC4 70%, #D084FE 94%);

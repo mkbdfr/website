@@ -3,10 +3,23 @@ body {
     font-feature-settings: 'onum' 1;
     text-rendering: optimizeLegibility;
     font-feature-settings: 'kern' 1;
+    font-size: 1.6rem;
+    display: flex;
+    flex-direction: column;
+
+}
+html {
+    font-size: 62.5%;
 }
 
-main.tmpl-page{
-  min-height: 600px;
+html, body {
+    height: 100%;
+  }
+
+
+
+main{
+    flex: 1 0 auto;
 }
 
 section {
@@ -18,7 +31,7 @@ section {
     &.home_intro {
       text-align: center;
       font-weight: 900;
-      font-size: 2vw;
+      font-size: 2rem;
       background: linear-gradient(150deg, #FFD14A 15%, #FE8BC4 70%, #D084FE 94%);
       background-clip: border-box;
       box-decoration-break: clone;
@@ -48,21 +61,21 @@ h1, h2, h3 {
 
 h1 {
     font-weight: 900;
-    font-size: 5vw;
+    font-size: 6.2rem;
     line-height: 1;
     margin-bottom:30px;
 }
 
 h2 {
     font-weight: 900;
-    font-size: 3vw;
+    font-size: 4.2rem;
     line-height: 1;
     margin-bottom:20px;
 }
 
 h3 {
     font-weight: 900;
-    font-size: 2vw;
+    font-size: 3rem;
     line-height: 1;
     margin-bottom:10px;
 }
