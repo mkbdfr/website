@@ -6,6 +6,8 @@ navtitle: Pages Jaunes
 title: Pages Jaunes
 ---
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/css/flag-icon.min.css" />
+
 # Pages Jaunes
 
 ## Communautés anglophones
@@ -18,8 +20,9 @@ title: Pages Jaunes
 - [https://typehype.net/](https://typehype.net/)
 - [https://www.keebtalk.com/](https://www.keebtalk.com/)
 - [https://agoramech.com/](https://agoramech.com/)
-  <img src="#"/>
-  **Bonus**
+
+**Bonus**
+
 - [http://keyboardcatalog.com/](http://keyboardcatalog.com/)
 - [https://plot.ly/~haata#/](https://plot.ly/~haata#/)
 - [https://deskthority.net/wiki/](https://deskthority.net/wiki/)
@@ -29,51 +32,51 @@ title: Pages Jaunes
 
 ## Vendeurs de claviers et pièces
 
-- :flag_fr: [https://www.ldlc.com/informatique/peripherique-pc/clavier/c4606/+fc1431-1.html](https://www.ldlc.com/informatique/peripherique-pc/clavier/c4606/+fc1431-1.html)
-- :flag_be: [https://mykeyboard.eu/](https://mykeyboard.eu/)
-- :flag_be: [https://www.qlavier.com/](https://www.qlavier.com/)
-- :flag_gb: [https://www.keyboardco.com/](https://www.keyboardco.com/)
-- :flag_de: [https://www.candykeys.com/](https://www.candykeys.com/)
-- :flag_de: [https://www.keebwerk.com/](https://www.keebwerk.com/)
-- :flag_de: [https://uniqey.net/en](https://uniqey.net/en)
-- :flag_ca: [https://matias.store/](https://matias.store/)
-- :flag_us: [https://mechanicalkeyboards.com/](https://mechanicalkeyboards.com/)
-- :flag_us: [https://elitekeyboards.com/](https://elitekeyboards.com/)
-- :flag_us: [https://www.massdrop.com/](https://www.massdrop.com/)
-- :flag_us: [https://originative.co/](https://originative.co/)
-- :flag_au: [https://ramaworks.store/](https://ramaworks.store/)
-- :flag_cn: [https://kbdfans.cn/](https://kbdfans.cn/)
+- <span class="flag-icon flag-icon-fr"></span> [https://www.ldlc.com/informatique/peripherique-pc/clavier/c4606/+fc1431-1.html](https://www.ldlc.com/informatique/peripherique-pc/clavier/c4606/+fc1431-1.html)
+- <span class="flag-icon flag-icon-be"></span> [https://mykeyboard.eu/](https://mykeyboard.eu/)
+- <span class="flag-icon flag-icon-be"></span> [https://www.qlavier.com/](https://www.qlavier.com/)
+- <span class="flag-icon flag-icon-gb"></span> [https://www.keyboardco.com/](https://www.keyboardco.com/)
+- <span class="flag-icon flag-icon-de"></span> [https://www.candykeys.com/](https://www.candykeys.com/)
+- <span class="flag-icon flag-icon-de"></span> [https://www.keebwerk.com/](https://www.keebwerk.com/)
+- <span class="flag-icon flag-icon-de"></span> [https://uniqey.net/en](https://uniqey.net/en)
+- <span class="flag-icon flag-icon-ca"></span> [https://matias.store/](https://matias.store/)
+- <span class="flag-icon flag-icon-us"></span> [https://mechanicalkeyboards.com/](https://mechanicalkeyboards.com/)
+- <span class="flag-icon flag-icon-us"></span> [https://elitekeyboards.com/](https://elitekeyboards.com/)
+- <span class="flag-icon flag-icon-us"></span> [https://www.massdrop.com/](https://www.massdrop.com/)
+- <span class="flag-icon flag-icon-us"></span> [https://originative.co/](https://originative.co/)
+- <span class="flag-icon flag-icon-au"></span> [https://ramaworks.store/](https://ramaworks.store/)
+- <span class="flag-icon flag-icon-cn"></span> [https://kbdfans.cn/](https://kbdfans.cn/)
 
 ## Vendeurs de pièces
 
-- :flag_gb: [https://mechboards.co.uk/](https://mechboards.co.uk/)
-- :flag_gb: [https://mechbox.co.uk/](https://mechbox.co.uk/)
-- :flag_gb: [https://www.ukkeycaps.co.uk/](https://www.ukkeycaps.co.uk/)
-- :flag_no: [https://mekanisk.co/](https://mekanisk.co/)
-- :flag_es: [https://www.laserboost.com/](https://www.laserboost.com/)
-- :flag_es: [https://www.keyboardplates.com/](https://www.keyboardplates.com/)
-- :flag_hu: [https://falba.tech/](https://falba.tech/)
-- :flag_ca: [https://mechkeys.ca/](https://mechkeys.ca/)
-- :flag_ca: [https://www.gboards.ca/](https://www.gboards.ca/)
-- :flag_us: [https://www.switchmod.net/](https://www.switchmod.net/)
-- :flag_us: [https://www.switchtop.com/](https://www.switchtop.com/)
-- :flag_us: [https://techkeys.us/](https://techkeys.us/)
-- :flag_us: [https://mehkee.com/](https://mehkee.com/)
-- :flag_us: [https://novelkeys.xyz/](https://novelkeys.xyz/)
-- :flag_us: [https://zealpc.net/](https://zealpc.net/)
-- :flag_us: [https://meckeyalpha.com/](https://meckeyalpha.com/)
-- :flag_us: [https://www.1upkeyboards.com/](https://www.1upkeyboards.com/)
-- :flag_us: [https://keeb.io/](https://keeb.io/)
-- :flag_us: [https://pimpmykeyboard.com/](https://pimpmykeyboard.com/)
-- :flag_us: [https://dixiemech.com/](https://dixiemech.com/)
-- :flag_us: [https://spacecat.design/](https://spacecat.design/)
-- :flag_us: [https://thekey.company/](https://thekey.company/)
-- :flag_us: [https://kono.store/](https://kono.store/)
-- :flag_us: [https://mkultra.click/](https://mkultra.click/)
-- :flag_us: [https://littlekeyboards.com/](https://littlekeyboards.com/)
-- :flag_tw: [https://shopkey.doyustudio.com/](https://shopkey.doyustudio.com/)
-- :flag_kr: [https://winkeyless.kr/](https://winkeyless.kr/)
-- :flag_kr: [https://spritdesign.wixsite.com/sprit/](https://spritdesign.wixsite.com/sprit/)
+- <span class="flag-icon flag-icon-gb"></span> [https://mechboards.co.uk/](https://mechboards.co.uk/)
+- <span class="flag-icon flag-icon-gb"></span> [https://mechbox.co.uk/](https://mechbox.co.uk/)
+- <span class="flag-icon flag-icon-gb"></span> [https://www.ukkeycaps.co.uk/](https://www.ukkeycaps.co.uk/)
+- <span class="flag-icon flag-icon-no"></span> [https://mekanisk.co/](https://mekanisk.co/)
+- <span class="flag-icon flag-icon-es"></span> [https://www.laserboost.com/](https://www.laserboost.com/)
+- <span class="flag-icon flag-icon-es"></span> [https://www.keyboardplates.com/](https://www.keyboardplates.com/)
+- <span class="flag-icon flag-icon-hu"></span> [https://falba.tech/](https://falba.tech/)
+- <span class="flag-icon flag-icon-ca"></span> [https://mechkeys.ca/](https://mechkeys.ca/)
+- <span class="flag-icon flag-icon-ca"></span> [https://www.gboards.ca/](https://www.gboards.ca/)
+- <span class="flag-icon flag-icon-us"></span> [https://www.switchmod.net/](https://www.switchmod.net/)
+- <span class="flag-icon flag-icon-us"></span> [https://www.switchtop.com/](https://www.switchtop.com/)
+- <span class="flag-icon flag-icon-us"></span> [https://techkeys.us/](https://techkeys.us/)
+- <span class="flag-icon flag-icon-us"></span> [https://mehkee.com/](https://mehkee.com/)
+- <span class="flag-icon flag-icon-us"></span> [https://novelkeys.xyz/](https://novelkeys.xyz/)
+- <span class="flag-icon flag-icon-us"></span> [https://zealpc.net/](https://zealpc.net/)
+- <span class="flag-icon flag-icon-us"></span> [https://meckeyalpha.com/](https://meckeyalpha.com/)
+- <span class="flag-icon flag-icon-us"></span> [https://www.1upkeyboards.com/](https://www.1upkeyboards.com/)
+- <span class="flag-icon flag-icon-us"></span> [https://keeb.io/](https://keeb.io/)
+- <span class="flag-icon flag-icon-us"></span> [https://pimpmykeyboard.com/](https://pimpmykeyboard.com/)
+- <span class="flag-icon flag-icon-us"></span> [https://dixiemech.com/](https://dixiemech.com/)
+- <span class="flag-icon flag-icon-us"></span> [https://spacecat.design/](https://spacecat.design/)
+- <span class="flag-icon flag-icon-us"></span> [https://thekey.company/](https://thekey.company/)
+- <span class="flag-icon flag-icon-us"></span> [https://kono.store/](https://kono.store/)
+- <span class="flag-icon flag-icon-us"></span> [https://mkultra.click/](https://mkultra.click/)
+- <span class="flag-icon flag-icon-us"></span> [https://littlekeyboards.com/](https://littlekeyboards.com/)
+- <span class="flag-icon flag-icon-tw"></span> [https://shopkey.doyustudio.com/](https://shopkey.doyustudio.com/)
+- <span class="flag-icon flag-icon-kr"></span> [https://winkeyless.kr/](https://winkeyless.kr/)
+- <span class="flag-icon flag-icon-kr"></span> [https://spritdesign.wixsite.com/sprit/](https://spritdesign.wixsite.com/sprit/)
 
 ## Podcasts (anglophones of course)
 

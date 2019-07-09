@@ -2,17 +2,17 @@
 layout: layouts/page.njk
 tags:
   - nav
-navtitle: Keebs
-title: Keebs
+navtitle: Keyboards
+title: Keyboards
 ---
 <table style="color:white">
   <tr>
     <th>img</th>
     <th>Content</th>
   </tr>
-  {%- for k in keebs %}
+  {%- for k in keyboards %}
     <tr>
-      <td><img src="{{ '/img-keebs/' | url }}{{ k.photos[0] | basefilename }}-320.jpg"/></td>
+      <td><img src="{{ '/img-keyboards/' | url }}{{ k.photos[0] | basefilename }}-320.jpg"/></td>
       <td>
         <ul>
           <li>owner: {{ k.owner }}</li>

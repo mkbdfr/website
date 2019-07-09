@@ -12,8 +12,8 @@ const keebImgSizes = [
   { suffix: "320", size: [320, 240] }
 ];
 const imgParse = async () => {
-  const srcDir = "./src/img-keebs";
-  const outDir = "./dist/img-keebs";
+  const srcDir = "./src/img-keyboards";
+  const outDir = "./dist/img-keyboards";
   if (!fs.existsSync(path.resolve(outDir))) {
     fs.mkdirSync(path.resolve(outDir), { recursive: true });
   }
