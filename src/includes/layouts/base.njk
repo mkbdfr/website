@@ -4,14 +4,14 @@ images:
 ---
 <!DOCTYPE html>
 <html>
-    <head>
-      {% include 'layouts/partials/_head.njk' %}
-    </head>
-    <body>
-      {% include 'layouts/partials/_nav.njk' %}
-      <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-        {{ content | safe }}
-      </main>
-      {% include 'layouts/partials/_footer.njk' %}
-    </body>
+  <head>
+    {% include 'layouts/partials/_head.njk' %}
+  </head>
+  <body>
+    {% include 'layouts/partials/_nav.njk' %}
+    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+      {{ content | safe }}
+    </main>
+    {% include 'layouts/partials/_footer.njk' %}
+  </body>
 </html>

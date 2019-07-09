@@ -18,8 +18,8 @@ title: Pages Jaunes
 - [https://typehype.net/](https://typehype.net/)
 - [https://www.keebtalk.com/](https://www.keebtalk.com/)
 - [https://agoramech.com/](https://agoramech.com/)
-<img src="#"/>
-**Bonus**
+  <img src="#"/>
+  **Bonus**
 - [http://keyboardcatalog.com/](http://keyboardcatalog.com/)
 - [https://plot.ly/~haata#/](https://plot.ly/~haata#/)
 - [https://deskthority.net/wiki/](https://deskthority.net/wiki/)
@@ -27,8 +27,8 @@ title: Pages Jaunes
 - [https://www.reddit.com/r/MechanicalKeyboards/wiki/](https://www.reddit.com/r/MechanicalKeyboards/wiki/)
 - [http://www.keychatter.wiki/](http://www.keychatter.wiki/)
 
-
 ## Vendeurs de claviers et pièces
+
 - :flag_fr: [https://www.ldlc.com/informatique/peripherique-pc/clavier/c4606/+fc1431-1.html](https://www.ldlc.com/informatique/peripherique-pc/clavier/c4606/+fc1431-1.html)
 - :flag_be: [https://mykeyboard.eu/](https://mykeyboard.eu/)
 - :flag_be: [https://www.qlavier.com/](https://www.qlavier.com/)
@@ -45,6 +45,7 @@ title: Pages Jaunes
 - :flag_cn: [https://kbdfans.cn/](https://kbdfans.cn/)
 
 ## Vendeurs de pièces
+
 - :flag_gb: [https://mechboards.co.uk/](https://mechboards.co.uk/)
 - :flag_gb: [https://mechbox.co.uk/](https://mechbox.co.uk/)
 - :flag_gb: [https://www.ukkeycaps.co.uk/](https://www.ukkeycaps.co.uk/)
@@ -74,13 +75,14 @@ title: Pages Jaunes
 - :flag_kr: [https://winkeyless.kr/](https://winkeyless.kr/)
 - :flag_kr: [https://spritdesign.wixsite.com/sprit/](https://spritdesign.wixsite.com/sprit/)
 
-
 ## Podcasts (anglophones of course)
+
 - [https://topclack.com/](https://topclack.com/)
 - [https://bit.ly/TheBoardPodcast](https://bit.ly/TheBoardPodcast)
 - [https://the-international-kit.com/](https://the-international-kit.com/)
 
 ## Artisans
+
 - [https://keycap.info/](https://keycap.info/) (catalogues des principaux créateurs)
 - [https://www.reddit.com/r/ArtisanMacro/](https://www.reddit.com/r/ArtisanMacro/)
 
