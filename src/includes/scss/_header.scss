@@ -1,95 +1,90 @@
-
 header {
-    position:relative;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-flow: column nowrap;
+  flex-flow: column nowrap;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin-bottom: 60px;
+}
+
+.big-title {
+  margin: auto;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 6rem;
+  background: -webkit-linear-gradient(300deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
+  background: -o-linear-gradient(300deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
+  background: linear-gradient(150deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  text-align: center;
+  line-height: 1;
+  margin-bottom: 30px;
+}
+
+.header-bg {
+  position: absolute;
+  content: ' ';
+  height: auto;
+  -webkit-filter: grayscale(100%) contrast(1);
+  filter: grayscale(100%) contrast(1);
+  mix-blend-mode: darken;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  z-index: -1;
+  width: 100%;
+  margin-top: 40px;
+  opacity: 0.8;
+}
+
+nav {
+  width: 100%;
+  height: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 60px;
+  ul {
+    list-style: none;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-flow: column nowrap;
-            flex-flow: column nowrap;
-    -webkit-box-pack:center;
-        -ms-flex-pack:center;
-            justify-content:center;
-    margin-bottom: 60px;
-}
+    flex-flow: row wrap;
 
-
-.big-title {
-    margin:auto;
+    justify-content: center;
+    margin: 0 20px;
+    padding: 0;
+  }
+  li {
+    margin: 10px;
+  }
+  a {
     text-transform: uppercase;
-    font-weight: 900;
-    font-size: 6rem;
-    background: -webkit-linear-gradient(300deg,#FFD14A 15%,#FE8BC4 70%,#D084FE 94%);
-    background: -o-linear-gradient(300deg,#FFD14A 15%,#FE8BC4 70%,#D084FE 94%);
-    background: linear-gradient(150deg,#FFD14A 15%,#FE8BC4 70%,#D084FE 94%);
+    font-weight: 700;
+    background: -webkit-linear-gradient(300deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
+    background: -o-linear-gradient(300deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
+    background: linear-gradient(150deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
     background-clip: border-box;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     -webkit-box-decoration-break: clone;
     box-decoration-break: clone;
-    text-align: center;
-    line-height: 1;
-    margin-bottom:30px;
-}
-
-
-.header-bg {
-    position:absolute;
-    content:" ";
-    height:auto;
-    -webkit-filter: grayscale(100%) contrast(1);
-            filter: grayscale(100%) contrast(1);
-    mix-blend-mode: darken;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    z-index: -1;
-    width:100%;
-    margin-top:40px;
-    opacity:0.8;
-}
-
-
-nav {
-    width:100%;
-    height:auto;
-    display:-webkit-box;
-    display:-ms-flexbox;
-    display:flex;
-    justify-content: center;
-    margin-bottom: 60px;
-    ul{
-        list-style: none;
-        display:-webkit-box;
-        display:-ms-flexbox;
-        display:flex;
-        flex-flow: row wrap;
-
-        justify-content: center;
-        margin:0 20px;
-        padding:0;
+    &:hover {
+      text-decoration: none;
     }
-    li {
-        margin:10px;
-    }
-    a {
-        text-transform: uppercase;
-        font-weight: 700;
-        background: -webkit-linear-gradient(300deg,#FFD14A 15%,#FE8BC4 70%,#D084FE 94%);
-        background: -o-linear-gradient(300deg,#FFD14A 15%,#FE8BC4 70%,#D084FE 94%);
-        background: linear-gradient(150deg,#FFD14A 15%,#FE8BC4 70%,#D084FE 94%);
-        background-clip: border-box;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        -webkit-box-decoration-break: clone;
-        box-decoration-break: clone;
-        &:hover{
-        text-decoration:none;
-
-        }
-    }
+  }
 }

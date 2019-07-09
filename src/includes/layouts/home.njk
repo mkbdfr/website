@@ -6,50 +6,47 @@ title: Accueil
 ---
 <!DOCTYPE html>
 <html>
-    <head>
-      {% include 'layouts/partials/_head.njk' %}
-    </head>
-    <body>
-      {% include 'layouts/partials/_nav.njk' %}
-      <header>
-        <h2 class="big-title">Mechanical Keyboards<br>France</h2>
-        <div class="header-bg">
-          {# <img src="img/bg.jpg" alt=""> #}
-        </div>
-      </header>
-      <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-        <section class="home_intro">
-          <p>Bienvenue dans le groupe des claviéristes français !</p>
-        </section>
-        <div class="jumbotron">
-            <div class="jumbotron__image"></div>
-            <div class="jumbotron__content">
-              <h2 class="jumbotron__title">Meetup 2019!</h2>
-              <p class="jumbotron__sublabel">
+  <head>
+    {% include 'layouts/partials/_head.njk' %}
+  </head>
+  <body>
+    {% include 'layouts/partials/_nav.njk' %}
+    <header>
+      <h2 class="big-title">Mechanical Keyboards<br>France</h2>
+      <div class="header-bg">
+        {# <img src="img/bg.jpg" alt=""> #}
+      </div>
+    </header>
+    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+      <section class="home_intro">
+        <p>Bienvenue dans le groupe des claviéristes français !</p>
+      </section>
+      <div class="jumbotron">
+        <div class="jumbotron__image"></div>
+        <div class="jumbotron__content">
+          <h2 class="jumbotron__title">Meetup 2019!</h2>
+          <p class="jumbotron__sublabel">
                   On se voit et on se touche les touches.
               </p>
-              <a href="{{ '/meetup' | url }}" class="jumbotron__bouton">
-                  <div class="keycap">En savoir plus</div>
-              </a>
-            </div>
+          <a href="{{ '/meetup' | url }}" class="jumbotron__bouton">
+            <div class="keycap">En savoir plus</div>
+          </a>
         </div>
-        <section>
-            <h3>Nous rejoindre</h3>
-            <div class="communaute">
-                <a href="https://discord.gg/dtPuEBr" target="_blank" aria-label="Nous rejoindre sur Discord">
-                  <i class="fab fa-discord"></i>
-                </a>
-                <a href="https://www.facebook.com/groups/291762867913654/" target="_blank" aria-label="Nous rejoindre sur Facebook">
-                  <i class="fab fa-facebook-square"></i>
-                </a>
-                <a href="https://www.meetup.com/Mechanical-Keyboards-Paris" target="_blank" aria-label="Nous rejoindre sur Meetup">
-                  <i class="fab fa-meetup"></i>
-                </a>
-            </div>
-        </section>
-      </main>
-    </body>
+      </div>
+      <section>
+        <h3>Nous rejoindre</h3>
+        <div class="communaute">
+          <a href="https://discord.gg/dtPuEBr" target="_blank" aria-label="Nous rejoindre sur Discord">
+            <i class="fab fa-discord"></i>
+          </a>
+          <a href="https://www.facebook.com/groups/291762867913654/" target="_blank" aria-label="Nous rejoindre sur Facebook">
+            <i class="fab fa-facebook-square"></i>
+          </a>
+          <a href="https://www.meetup.com/Mechanical-Keyboards-Paris" target="_blank" aria-label="Nous rejoindre sur Meetup">
+            <i class="fab fa-meetup"></i>
+          </a>
+        </div>
+      </section>
+    </main>
+  </body>
 </html>
-
-
-

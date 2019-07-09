@@ -6,9 +6,7 @@
     "switches": "Kailh Box Brown",
     "keyset": "GMK Plum",
     "description": "c'est un gros clavier de merde",
-    "photos": [
-      "zekth-60-1.jpg"
-    ]
+    "photos": ["zekth-60-1.jpg"]
   },
   {
     "owner": "Zekth",
@@ -17,8 +15,6 @@
     "switches": "Kailh Box Black",
     "keyset": "Gentleman Black PBT",
     "description": "Clavier split tout pété",
-    "photos": [
-      "zekth-quefrency-1.jpg"
-    ]
+    "photos": ["zekth-quefrency-1.jpg"]
   }
 ]
