@@ -6,6 +6,8 @@ navtitle: Guides
 title: Guide Layouts
 ---
 
+# Les Layouts
+
 Il y a deux façons de décrire la disposition (le layout) des touches d'un clavier : la disposition physique et la disposition logique. Ces deux notions sont complémentaires.
 
 • disposition physique : ANSI et ISO

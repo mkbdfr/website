@@ -6,9 +6,11 @@ navtitle: Guides
 title: Guide Switchs
 ---
 
+# Les Switchs
+
 Tactile ou linéaire, silencieux ou clicky
 
-C'est LA question obscure que se pose tout premier acheteur de clavier mécanique, notamment ceux pourvu de switchs Cherry MX : quelle couleur de switch choisir ? On distingue principalement deux types de switchs , linéaires et tactiles ; et parmi ces derniers, certains sont silencieux, certains sont clicky — tous les linéaires étant silencieux.
+C'est **LA** question obscure que se pose tout premier acheteur de clavier mécanique, notamment ceux pourvu de switchs Cherry MX : quelle couleur de switch choisir ? On distingue principalement deux types de switchs , linéaires et tactiles ; et parmi ces derniers, certains sont silencieux, certains sont clicky — tous les linéaires étant silencieux.
 
 Les switchs linéaires sont nommés ainsi en raison de la sensation produite : lorsque la touche s'enfonce de haut en bas, la sensation de frappe n'est affectée que par la force du ressort (sa résistance) qui augmente graduellement, autrement dit de façon linéaire (plus le ressort est compressé, plus il est dur). Cette augmentation est néanmoins subtile, à tel point que les fabricants de switchs ne fournissent qu'un chiffre (et non pas une plage) pour quantifier cette résistance ; vous ne risquez donc pas de trouver qu'un switch linéaire devient "trop dur en bout de course" : il sera soit trop dur tout court, soit trop souple, soit d'une dureté convenable.
 
@@ -17,6 +19,7 @@ Chez Cherry, les switchs linéaires sont le MX Red et le MX Black ; le Red offre
 Leur fonctionnement est représenté ainsi :
 
 ![](https://reho.st/gif/78509f92dba513a35515b0aad9d2f12676198c51.gif) ![](https://reho.st/gif/005cbd383c2fac8aaf5282c4c0cca7688284b0fe.gif)
+
 Switchs linéaires. Animations par Lethal Squirrel sur geekhack.org
 
 On notera que la partie colorée qui glisse contre le contact en métal (le slider, au-dessus duquel est fixée la touche) est lisse ; c'est la forme de ce slider associée à la résistance du ressort qui détermine le feeling du switch.
@@ -26,6 +29,7 @@ Les switchs tactiles, sont quasiment similaires, à l'exception de la forme du s
 Cherry produit principalement deux switchs de type tactile (trois si l'on compte le Blue qui est un cas à part décrit plus loin) : le MX Brown et le MX Clear, le premier étant le seul disponible en masse dans nos contrées. Le Brown a un ressort de 45 cN (identique au Red) et un bump tactile léger, le Clear a un ressort de 55 cN et un bump tactile plus prononcé.
 
 ![](https://reho.st/gif/7d554e0f3c1be56e26178235816b05513bf96509.gif) ![](https://reho.st/gif/2129d692bd8a61d6597299a76ac4e449f937cd23.gif)
+
 Switchs tactiles.
 
 Les switchs clicky sont des switchs tactiles dont le slider est en deux parties, et dont la partie mobile va au moment de l'actuation glisser vers le bas et heurter le fond du switch, produisant ainsi ce "clic" caractéristique. Le retour tactile est donc doublé d'un retour sonore.
@@ -33,6 +37,7 @@ Les switchs clicky sont des switchs tactiles dont le slider est en deux parties,
 Le switch clicky de chez Cherry le plus courant est le MX Blue. Le MX Green en est une version plus dure et plus rare. Le Blue a un ressort de 55 cN, le Green un ressort de 80 cN, ce qui en fait l'un des switchs les plus durs du fabricant et lui confère une sensation de frappe se rapprochant du Buckling Spring, malgré le fait que son slider soit identique au Blue.
 
 ![](https://reho.st/gif/caf462de5cf45867a438973455053c72dda3310d.gif)
+
 Switch à clic.
 
 Il faut noter que ces switchs clicky sont affectés par un phénomène d'hystérésis assez prononcé : après avoir appuyé sur un switch, il faut remonter bien au-dessus du point d'actuation pour qu'une frappe puisse à nouveau être prise en compte. C'est ce qui conduit certains utilisateurs à les déconseiller pour le jeu, où il est parfois intéressant de spammer une touche en "flottant" autour du point d'actuation (répéter un appui très vite sans remonter jusqu'en haut). Ceux qui ont l'habitude de laisser la touche remonter complètement avant d'appuyer à nouveau ne seront cependant pas gênés par ce phénomène.
@@ -64,6 +69,7 @@ Pour plus de détails, vous pouvez consulter l'article dédié sur le wiki de de
 Les switchs Topre sont de type électro-capacitifs à dôme caoutchouc : au-dessus des traces de cuivre du pcb sont placés des ressorts recouverts de dômes caoutchouc enfoncés par les touches ; c'est la variation de la capacité électrique du circuit induite par la compression du ressort métallique qui active la frappe. Il s'agit donc de switchs sans contact. Le ressort est très souple et ne sert qu'à faire varier la capacité du circuit, l'essentiel de la résistance est fournie par le dôme en caoutchouc qui procure une frappe tactile, le point de résistance (bump) se trouvant au début de la frappe, plus haut donc que sur les MX tactiles. Une fois ce point dépassé le switch donne l'impression de s'enfoncer tout seul, ce qui procure une frappe sans fatigue, contrairement aux dômes caoutchouc classiques. La frappe produit un "thock" sonore souvent apprécié, mais le switch Topre existe aussi en version silencieuse. La dureté de ces switchs peut varier de 35 cN à 55 cN.
 
 ![](http://reho.st/gif/1ca9d071692c90f63a3ecb0f4a8cf339d20b9fa9.gif)
+
 Source Topre.
 
 Plus de détails sur le wiki de deskthority.

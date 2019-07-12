@@ -6,6 +6,8 @@ navtitle: Guides
 title: Guide Comment choisir
 ---
 
+# Comment choisir?
+
 • Le Marketing
 
 Plus qu'une réhabilitation, les claviers mécaniques ont connu ces dernières années un véritable retour en vogue, pour le meilleur comme pour le pire : un certain nombre de constructeurs ont pris pour cible le "gamer" et la communication s'est établie en grande partie sur des caractéristiques susceptibles de lui plaire (rétroéclairage, look agressif, macros et programmation, le tout saupoudré de jargon technique souvent peu informatif), à grand renfort de publicité et de sponsoring dans l'e-sport, et en misant souvent plus sur un design tapageur et une liste de features longue comme le bras au dépend de ce qui a fait la réputation des claviers mécaniques — la solidité et la fiabilité.

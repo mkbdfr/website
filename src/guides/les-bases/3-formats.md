@@ -6,6 +6,8 @@ navtitle: Guides
 title: Guide Formats
 ---
 
+# Les Formats
+
 On trouve des claviers de toutes les tailles (et maintenant de toutes les formes), avec un nombre variable de touches. Concernant les tailles, on peut distinguer trois familles :
 
 • Le full size : c'est le clavier standard avec pavé numérique et toutes ses touches (105 en Europe, 104 aux US).
