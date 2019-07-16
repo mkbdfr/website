@@ -25,4 +25,7 @@ title: Guides
     <li>
       <a href="{{ '/guides/les-bases/6-anatomie' | url }}">6 - Anatomie d'un clavier</a>
     </li>
+    <li>
+      <a href="{{ '/guides/les-bases/7-build-un-meca' | url }}">7 - Comment build un méca</a>
+    </li>
   </ul>
