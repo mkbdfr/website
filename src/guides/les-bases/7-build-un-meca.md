@@ -316,7 +316,7 @@ Il y a peut-être d'autres moyens + propres. Mais dans tous les cas, cela reste 
 </details>
 
 ### Montage dans le boîtier
-![Plus qu'a monter (!]../../img-keyboards/before_pcb.jpg)
+![Plus qu'a monter !](../../img-keyboards/before_pcb.jpg)
 > Il ne reste plus qu'à doucement glisser le tout dans le boitier en passant l'encoche USB en premier.
 >
 > ⚠️ Vérifiez bien que le switch situé au dos du PCB dont on parle [ici](#PCB) est sur la position **NORMAL**.
