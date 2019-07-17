@@ -138,7 +138,7 @@ En rouge, vous avez une des nombreuses LED qui composent ce PCB. Si c'est votre 
 
 En vert, vous avez l'endroit où s'insère le `stem`.
 
-En orange, les fameux emplacements pour les pins en plastique. En pratique, on ne va pas rien y introduire donc.
+En orange, les fameux emplacements pour les pins en plastique. En pratique, on ne va donc rien y introduire.
 
 En jaune, les emplacements pour les pins métalliques.
 
