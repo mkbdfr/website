@@ -145,12 +145,12 @@ En jaune, les emplacements pour les pins métalliques.
 ![Arriere du PCB](../../img-keyboards/back_pcb.jpg)
 Pour ce qui est de l'arrière, vous n'aurez pas besoin de connaître beaucoup de transistors ou quoi que ce soit.
 
-Il suffit juste de connaître le switch indique en bleu, qui pourra servir à flasher le PCB en le passant en position `BL` (BootLoader). Mais on verra qu'il y a une autre solution aussi.
+Il suffit juste de connaître le switch indiqué en bleu, qui pourra servir à flasher le PCB en le passant en position `BL` (BootLoader). Mais on verra qu'il y a une autre solution aussi.
 
 En rouge, vous pouvez observer les sockets hot swappables de chez Kailh. Ces petits embouts nous permettront **de ne pas avoir besoin de souder**, il suffira juste de plug le switch dedans !
 
 ## Verification du PCB
-Bon, maintenant passons a la verification du PCB en vérifiant que tout marche bien !
+Bon, maintenant passons a la vérification du PCB en vérifiant que tout marche bien !
 
 Pour cela, allez sur votre ordinateur, branchez le PCB en USB et allez à [cette adresse](https://config.qmk.fm/#/test) pour vérifier que tout marche comme il faut.
 
