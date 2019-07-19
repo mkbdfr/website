@@ -7,19 +7,33 @@ sudo: false
 cache:
   directories:
     - node_modules
+    - dist
 
 install:
   - npm install
+
 script:
   - npm run chk:data
   - npm run prettier
   - npm run build
 
 deploy:
-  provider: pages
-  skip_cleanup: true
-  local_dir: dist
-  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep_history: true
+  provider: script
   on:
     branch: master
+  env:
+    - USER="claviers"
+    - EMAIL="vince.legoff@gmail.com"
+    - REPO="claviers.github.io"
+    - GH_REPO="github.com/${USER}/${REPO}.git"
+  script:
+    - MESSAGE=$(git log --format=%B -n 1 $TRAVIS_COMMIT)
+    - git clone git://${GH_REPO}
+    - mv ./dist/* ${REPO}/
+    - cd ${REPO}
+    - git remote
+    - git config user.email ${EMAIL}
+    - git config user.name ${USER}
+    - git add .
+    - git commit -m ${MESSAGE}
+    - git push "https://${GITHUB_TOKEN}@${GH_REPO}" master > /dev/null 2>&1
