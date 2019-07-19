@@ -9,6 +9,7 @@ ls
 mv ./dist/* ${REPO}/
 ls
 cd ${REPO}
+touch .nojekyll
 git remote
 git config user.email ${EMAIL}
 git config user.name ${USER}
