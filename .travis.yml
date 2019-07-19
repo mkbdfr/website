@@ -14,13 +14,16 @@ install:
 jobs:
   include:
     - stage: test
+      name: 'Test'
       script:
         - npm run chk:data
         - npm run prettier
-    - stage: test
+    - stage: build
+      name: 'Build website'
       script:
         - npm run build
     - stage: deploy
+      name: 'deploy to repository'
       if: branch = master
       env:
         - USER="claviers"
