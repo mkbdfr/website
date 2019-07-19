@@ -1,4 +1,4 @@
-# MK Fr website [![Build Status](https://travis-ci.org/zekth/mkfr.svg?branch=master)](https://travis-ci.org/zekth/mkfr) [![Discord](https://img.shields.io/discord/364402715545174027.svg?label=Discord&logo=Discord&logoColor=white)](https://discord.gg/yrUTU3m) ![Code Style](https://img.shields.io/badge/code%20style-prettier-success.svg)
+# MK Fr website [![Build Status](https://travis-ci.org/claviers/claviers.github.io.svg?branch=master)](https://travis-ci.org/claviers/claviers.github.io) [![Discord](https://img.shields.io/discord/364402715545174027.svg?label=Discord&logo=Discord&logoColor=white)](https://discord.gg/yrUTU3m) ![Code Style](https://img.shields.io/badge/code%20style-prettier-success.svg)
 
 ## Build
 
