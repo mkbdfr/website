@@ -7,12 +7,13 @@ sudo: false
 cache:
   directories:
     - node_modules
+    - dist
 
 install:
   - npm install
 
 jobs:
-  include:
+  stages:
     - stage: test
       name: 'Test'
       script:
@@ -23,8 +24,6 @@ jobs:
       script:
         - npm run build
     - stage: deploy
-      name: 'deploy to repository'
-      if: branch = master
       env:
         - USER="claviers"
         - EMAIL="vince.legoff@gmail.com"
@@ -41,3 +40,9 @@ jobs:
         - git add .
         - git commit -m ${MESSAGE}
         - git push "https://${GITHUB_TOKEN}@${GH_REPO}" master > /dev/null 2>&1
+
+stages:
+  - test
+  - build
+  - name: deploy
+    if: branch = master
