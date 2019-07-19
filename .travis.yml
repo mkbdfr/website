@@ -18,6 +18,7 @@ script:
   - npm run build
 
 deploy:
-  provider: bash ./deploy.sh
+  provider: script
+  script: bash ./deploy.sh
   on:
     branch: master
