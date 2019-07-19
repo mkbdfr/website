@@ -3,8 +3,11 @@ USER="claviers"
 EMAIL="vince.legoff@gmail.com"
 REPO="claviers.github.io"
 GH_REPO="github.com/${USER}/${REPO}.git"
+ls
 git clone git://${GH_REPO}
+ls
 mv ./dist/* ${REPO}/
+ls
 cd ${REPO}
 git remote
 git config user.email ${EMAIL}
