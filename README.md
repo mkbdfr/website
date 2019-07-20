@@ -1,4 +1,4 @@
-# MK Fr website [![Build Status](https://travis-ci.org/claviers/claviers.github.io.svg?branch=master)](https://travis-ci.org/claviers/claviers.github.io) [![Discord](https://img.shields.io/discord/364402715545174027.svg?label=Discord&logo=Discord&logoColor=white)](https://discord.gg/yrUTU3m) ![Code Style](https://img.shields.io/badge/code%20style-prettier-success.svg)
+# Claviers-mecanique.fr [![Build Status](https://travis-ci.org/claviers/website.svg?branch=master)](https://travis-ci.org/claviers/website) [![Discord](https://img.shields.io/discord/364402715545174027.svg?label=Discord&logo=Discord&logoColor=white)](https://discord.gg/yrUTU3m) ![Code Style](https://img.shields.io/badge/code%20style-prettier-success.svg)
 
 ## Build
 
@@ -28,4 +28,4 @@ npm run prettier
 npm run build
 ```
 
-If no exception is thrown, Travis deploy the code to Github Pages at this address: [https://zekth.github.io/mkfr/](https://zekth.github.io/mkfr/)
+If no exception is thrown, Travis deploy the code to Gh-pages branch.
