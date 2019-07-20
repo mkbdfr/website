@@ -7,7 +7,6 @@ sudo: false
 cache:
   directories:
     - node_modules
-    - dist
 
 install:
   - npm install
@@ -18,8 +17,10 @@ script:
   - npm run build
 
 deploy:
+  provider: pages
   skip_cleanup: true
-  provider: script
-  script: bash ./deploy.sh
+  local_dir: dist
+  github_token: $GITHUB_TOKEN
+  keep_history: true
   on:
     branch: master
