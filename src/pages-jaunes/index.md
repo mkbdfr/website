@@ -42,6 +42,7 @@ title: Pages Jaunes
 - <span class="flag-icon flag-icon-ca"></span> [https://matias.store/](https://matias.store/)
 - <span class="flag-icon flag-icon-us"></span> [https://mechanicalkeyboards.com/](https://mechanicalkeyboards.com/)
 - <span class="flag-icon flag-icon-us"></span> [https://elitekeyboards.com/](https://web.archive.org/web/20190414000543/http://elitekeyboards.com/)
+  - Ce lien redirige maintenant vers [web.archive.org](https://web.archive.org) car Elitekeyboards est définitivement fermé.
 - <span class="flag-icon flag-icon-us"></span> [https://www.massdrop.com/](https://www.massdrop.com/)
 - <span class="flag-icon flag-icon-us"></span> [https://originative.co/](https://originative.co/)
 - <span class="flag-icon flag-icon-au"></span> [https://ramaworks.store/](https://ramaworks.store/)
