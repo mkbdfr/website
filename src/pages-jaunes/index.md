@@ -113,5 +113,7 @@ title: Pages Jaunes
 
 ## Tester son clavier
 
-- Online [https://config.qmk.fm/#/test](https://config.qmk.fm/#/test)
+- Online
+  - [https://config.qmk.fm/#/test](https://config.qmk.fm/#/test)
+  - [https://www.keyboardtester.com/](https://www.keyboardtester.com/)
 - Linux [https://linux.die.net/man/1/showkey](https://linux.die.net/man/1/showkey)
