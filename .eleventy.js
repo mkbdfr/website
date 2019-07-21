@@ -44,6 +44,7 @@ module.exports = function(eleventyConfig) {
     return arr.join('.');
   });
   eleventyConfig.addPassthroughCopy("./src/img");
+  eleventyConfig.addPassthroughCopy("./src/assets");
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   return {
     pathPrefix: "/",
