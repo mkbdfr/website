@@ -1,5 +1,36 @@
 <meta charset="utf-8">
-<title>Mechanical Keyboards - France - {{ title }}</title>
+<title>{{site.title}} - {{ title }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="{{ '/' | url }}style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" integrity="sha256-UzFD2WYH2U1dQpKDjjZK72VtPeWP50NoJjd26rnAdUI=" crossorigin="anonymous"/>
+
+
+<!--Twitter Card-->
+<meta name="twitter:card" content="summary">
+{# <meta name="twitter:site" content="@{{site.twitter}}"> #}
+{# <meta name="twitter:creator" content="@{{site.twitter}}"> #}
+<meta name="twitter:url" content="{{site.baseURL}}{{page.url}}">
+<meta name="twitter:title" content="{{title}}">
+{# <meta name="twitter:description" content="{{content | striptags | truncate(196) }}"> #}
+<meta name="twitter:image" content="{{site.baseURL}}{{'/assets/img/MKFR_Logo-white.png'| url}}">
+
+<!--Schema-->
+<link rel="author" href="{{site.baseURL}}">
+<link rel="publisher" href="{{site.baseURL}}">
+<meta itemprop="name" content="{{title}}">
+{# <meta itemprop="description" content="{{content | striptags | truncate(196) }}"> #}
+<meta itemprop="image" content="{{site.baseURL}}{{'/assets/img/MKFR_Logo-white.png'| url}}">
+
+<!-- Facebook OpenGraph -->
+<meta property="og:url" content="{{site.baseURL}}{{page.url}}" />
+{% if '/' == page.url %}
+<meta property="og:type" content="website" />
+{% else %}
+<meta property="og:type" content="article" />
+{% endif %}
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:title" content="{{site.title}} - {{ title }}" />
+<meta property="og:description" content="{{site.title}} - {{ title }}" />
+<meta property="og:image" content="{{site.baseURL}}{{'/assets/img/MKFR_Logo-white.png'| url}}" />
+<meta property="og:site_name" content="{{site.title}}">
+<meta property="article:author" content="{{site.baseURL}}">
