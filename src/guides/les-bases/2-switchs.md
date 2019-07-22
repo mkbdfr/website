@@ -50,7 +50,7 @@ Certains fabricants de claviers ont l'honnêteté de faire apparaître le nom du
 
 Mise à jour 2018 : poussé par les exigences des utilisateurs, le marché a évolué très vite ces dernières années, à tel point que si Cherry a longtemps été le fabricant de switch favori des enthusiasts de nombreuses nouveautés ont été introduites par des fabricants tiers ; si Gateron est toujours apprécié comme alternative à Cherry du fait de ses prix moins élevés et ses sliders au plastique plus lisse conférant une frappe (très légèrement) plus douce, c'est à l'heure actuelle Kailh, initialement connu pour ses copies médiocres de Cherry, qui propose le plus d'innovations, notamment avec ses switchs "Box" (dont la forme du slider limite le léger mouvement latéral des touches) et un nouveau mécanisme d'actuation qui produit un "clic" différent des MX Blue de Cherry. Par ailleurs, certaines communautés ou vendeurs font produire des switchs selon des spécifications particulières (on peut citer les séries Halo/Hako d'Input:Club) ce qui augmente considérablement la complexité de l'offre.
 
-Pour un aperçu plus complet (et de riches descriptions techniques) en anglais, voir le guide détaillé d'Input:Club : https://input.club/the-comparative- [...] -switches/
+Pour un aperçu plus complet (et de riches descriptions techniques) en anglais, voir le guide détaillé d'Input:Club : [https://input.club/the-comparative-guide-to-mechanical-switches/](https://input.club/the-comparative-guide-to-mechanical-switches/)
 
 • Le Buckling Spring d'IBM
 
