@@ -1,5 +1,5 @@
 body {
-  background: #222;
+  background: $bleu-gris;
   font-feature-settings: 'onum' 1;
   text-rendering: optimizeLegibility;
   font-feature-settings: 'kern' 1;
@@ -30,12 +30,21 @@ section {
     text-align: center;
     font-weight: 900;
     font-size: 2rem;
-    background: linear-gradient(150deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
-    background-clip: border-box;
-    box-decoration-break: clone;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -webkit-box-decoration-break: clone;
+    color:#FFF;
+    // background: linear-gradient(150deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
+    // background-clip: border-box;
+    // box-decoration-break: clone;
+    // -webkit-background-clip: text;
+    // -webkit-text-fill-color: transparent;
+    // -webkit-box-decoration-break: clone;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  .affiche {
+    max-width: 500px;
   }
 }
 
@@ -47,15 +56,9 @@ h1,
 h2,
 h3 {
   text-transform: uppercase;
-  background: -webkit-linear-gradient(300deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
-  background: -o-linear-gradient(300deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
-  background: linear-gradient(150deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
-  background-clip: border-box;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -webkit-box-decoration-break: clone;
-  box-decoration-break: clone;
+  color:$bleu;
   text-align: center;
+  font-family: 'fv-almelo-regular';
 }
 
 h1 {
@@ -70,6 +73,7 @@ h2 {
   font-size: 4.2rem;
   line-height: 1;
   margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 h3 {
@@ -77,16 +81,30 @@ h3 {
   font-size: 3rem;
   line-height: 1;
   margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 a {
-  color: #ffd14a;
+  color: white;
+  text-decoration: underline;
   &:hover {
-    text-decoration: none;
+    color:$rouge;
   }
 }
 
 p {
   color: white;
   margin-bottom: 10px;
+  font-size: 1.8rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+hr {
+  height:4px;
+  color:$rouge;
+  background: $rouge;
+  margin: 40px 0 40px 0;
 }

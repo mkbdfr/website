@@ -18,17 +18,22 @@ header {
   text-transform: uppercase;
   font-weight: 900;
   font-size: 6rem;
-  background: -webkit-linear-gradient(300deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
-  background: -o-linear-gradient(300deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
-  background: linear-gradient(150deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
-  background-clip: border-box;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -webkit-box-decoration-break: clone;
-  box-decoration-break: clone;
+  font-family: 'fv-almelo-regular';
+  color:$bleu;
+  // background: -webkit-linear-gradient(300deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
+  // background: -o-linear-gradient(300deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
+  // background: linear-gradient(150deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
+  // background-clip: border-box;
+  // -webkit-background-clip: text;
+  // -webkit-text-fill-color: transparent;
+  // -webkit-box-decoration-break: clone;
+  // box-decoration-break: clone;
   text-align: center;
   line-height: 1;
   margin-bottom: 30px;
+  .red {
+    color: $rouge;
+  }
 }
 
 .header-bg {
@@ -75,16 +80,21 @@ nav {
   a {
     text-transform: uppercase;
     font-weight: 700;
-    background: -webkit-linear-gradient(300deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
-    background: -o-linear-gradient(300deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
-    background: linear-gradient(150deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
-    background-clip: border-box;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -webkit-box-decoration-break: clone;
-    box-decoration-break: clone;
+    color:white;
+    text-decoration: none;
+    // background: -webkit-linear-gradient(300deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
+    // background: -o-linear-gradient(300deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
+    // background: linear-gradient(150deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
+    // background-clip: border-box;
+    // -webkit-background-clip: text;
+    // -webkit-text-fill-color: transparent;
+    // -webkit-box-decoration-break: clone;
+    // box-decoration-break: clone;
     &:hover {
-      text-decoration: none;
+      color:$bleu;
     }
+    // &:visited {
+    //   color:$bleu;
+    // }
   }
 }
