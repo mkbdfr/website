@@ -111,6 +111,9 @@ title: Pages Jaunes
 - [http://klavaro.sourceforge.net/fr/index.html](http://klavaro.sourceforge.net/fr/index.html)
 - [http://www.typeknight.com/](http://www.typeknight.com/)
 - [https://typings.gg/](https://typings.gg/)
+- [https://typing.io/](https://typing.io/)
+- Linux
+  - [gtypist](https://www.gnu.org/savannah-checkouts/gnu/gtypist/gtypist.html)
 
 ## Tester son clavier
 
