@@ -14,11 +14,11 @@ La construction avec plaque (plate-mounted switches) confère une plus grande ri
 
 Plus d'informations sur le montage des switchs : [wiki Deskthority]
 
-![](https://i.imgur.com/8Hz9fEG.png)
+## Touches / Keycaps
 
 Les touches ont une certaine importance : elles sont l'interface entre nos doigts et les switchs , et influent tout autant que ces derniers sur la sensation de frappe. Leur matériau et la façon dont les légendes sont inscrites déterminent leur durabilité.
 
-![](https://i.imgur.com/dDmeeRK.png)
+### Matériaux
 
 On distingue principalement trois types de plastiques utilisés pour la fabrication de touches pour claviers mécaniques : l'ABS, le PBT et le POM.
 
@@ -48,7 +48,7 @@ Le POM (polyoxyméthylène, connu aussi sous le nom d'acétal ou de Delrin) est 
 
 D'autres plastiques peuvent être utilisés, comme le PVC, utilisé abondamment par Dell, HP, Logitech et d'autres. Par ailleurs, certaines touches peuvent être réalisés en petite série en résine, en bois, voire en métal (zinc notamment), qui valent plus pour leur esthétique que pour leur apport à la sensation de frappe.
 
-![](https://i.imgur.com/rvzYVel.png)
+### Légendes
 
 Les légendes (lettres, symboles...) peuvent être inscrites sur les touches de diverses façons, certaines plus économiques et souvent moins durables, d'autres plus coûteuses donc moins fréquentes mais plus pérennes. On peut distinguer les techniques suivantes :
 
@@ -82,7 +82,7 @@ UV coating : au sens strict, c'est l'application d'un vernis séchant aux UV com
 
 Plus d'informations et de photos sur le [wiki Deskthority]
 
-![](https://i.imgur.com/Dpr8Vrq.png)
+### Profile
 
 Toutes les touches n'ont pas la même forme : leur hauteur ou leur angle (autrement dit leur profil) ont une certains incidence sur les sensations et le confort de la frappe. Par ailleurs toutes les touches d'un même profil ne sont donc pas interchangeables : chaque rangée a souvent une forme différente (hauteur et angle), qui permet d'étager le sommet de chaque rangée à partir de switchs alignés sur le même plan :
 
@@ -111,7 +111,7 @@ Enfin, certains claviers ont un profil identique sur chaque rangée et utilisent
 Photos des différents profils par Jacobolus sur [Geekhack] (plus de profils visibles dans le lien)
 Plus de détails sur l'identification des rangs : [wiki Deskthority]
 
-![](https://i.imgur.com/S8h2FJB.png)
+### La monture
 
 La monture d'une touche est sa partie qui lui permet d'être fixée sur le switch. Chaque type de switch a sa propre monture, il est donc par exemple impossible d'installer des touches avec monture Cherry MX sur un IBM Model M (switch à buckling spring).
 
@@ -121,7 +121,7 @@ Une solution plus aboutie mais plus coûteuse consiste à modifier un switch pou
 
 Plus d'informations et de photos : [wiki Deskthority]
 
-![](https://i.imgur.com/mnri5MU.png)
+### Remplacer ses touches
 
 On peut enlever ou remplacer les touches de la plupart des claviers mécaniques, mais c'est pour ceux pourvus de Cherry MX que l'offre est la plus vaste. L'offre est bien plus limitée pour les autres types de switchs : Unicomp est le seul vendeur à proposer des touches neuves pour claviers Buckling Spring, Realforce a cessé la fabrication de keysets pour switches Topre, et Matias est le seul à vendre des touches compatibles avec les switchs Alps. Pour ces types de switchs, le marché de l'occasion est souvent la source la plus intéressante.
 
@@ -139,7 +139,7 @@ Outre l'occasion, il y a deux façons de se procurer des touches de claviers : l
 
 L'élaboration de keysets par des membres de forums et leur fabrication sur demande par les fabricants permet de prévoir des touches supplémentaires pour s'adapter à des variations de layouts, si celles-ci sont assez populaires. Par ailleurs, ces commandes permettent de se procurer des keysets très différents de ce qu'on trouve dans le commerce, que ce soit au niveau des matériaux utilisés, du profil des touches, de la méthode d'impression des légendes ou des couleurs utilisées ; ils sont donc souvent l'occasion de se procurer un keyset unique.
 
-![](https://i.imgur.com/aQNzxBY.png)
+## Design Electrique
 
 Pour comprendre certaines notions vantées par les fabricants de claviers comme l'antighosting ou le NKRO, il faut comprendre la façon dont un clavier fonctionne. Pour l'essentiel, un clavier est composé d'interrupteurs (switchs, un pour chaque touche) et d'un microcontrôleur qui sert de passerelle entre les touches et le pc : lorsque l'utilisateur appuie sur une touche, le microcontrôleur détecte cet appui et envoie via le port USB ou PS/2 le caractère correspondant (plus précisément le scancode) à l'OS qui l’interprète en fonction du layout choisi dans les options de langue.
 
@@ -151,7 +151,7 @@ Ici, pour connecter 30 switchs, on a besoin non pas de 30 entrées/sorties mais 
 
 Si cet arrangement en matrice permet d'économiser le nombre d'entrées/sorties du contrôleur, elle pose néanmoins d'autres problèmes, et c'est là qu'intervient notamment la notion de ghosting.
 
-![](https://i.imgur.com/SCJwIMc.png)
+### Ghosting et frappe fantôme
 
 Dans une matrice, comme plusieurs touches partagent un lien (ligne ou colonne) vers le microcontrôleur, celui-ci peut interpréter la pression des switchs de façon erronée lorsque trois switchs adjacents (ou plus) ayant un colonne et une ligne en commun sont pressés.
 
@@ -161,7 +161,7 @@ Dans ce schéma, les cas 1, 2, 3 et 4 ne posent pas de problèmes : le contrôle
 
 Dans le cas numéro 5, du fait de l'agencement électrique des touches, la pression de F, G et B conduit le courant (qui circule librement dans n'importe quelle direction tant qu'il y a continuité électrique) à passer par V et donc le contrôleur à détecter de façon erronée un appui sur cette touche. C'est cette détection d'un appui inexistant qu'on appelle ghosting.
 
-![](https://i.imgur.com/vuX9KHe.png)
+### Anti-ghosting : blocking et solutions
 
 Pour éviter ce problème, plusieurs solutions se présentent ; la plus répandue consiste à programmer le contrôleur pour qu'il bloque la prise en compte d'une troisième frappe dans la configuration décrite ci-dessus : ce blocage, qu'on appelle ghosting par abus de langage, est en fait du jamming ou blocking ; il est la conséquence de la propension d'une matrice à produire du ghosting (d'où la confusion fréquente entre les termes), et la cause de la limitation à deux appuis simultanés (le 2KRO, 2-key rollover) sur bon nombre de claviers pour empêcher ce problème de se produire. On notera que techniquement parlant, un clavier peut donc avoir recours au blocage de touches comme mesure anti-ghosting, alors que la dénomination marketing "anti-ghosting" est couramment utilisée pour désigner un clavier qui n'en bloque pas...
 
@@ -177,7 +177,7 @@ L'envers d'un PCB de clavier, avec une diode (en orange) par switch.
 
 On notera enfin que ces problèmes de ghosting et de jamming ne concernent que les claviers où la prise en compte d'un appui repose sur un contact électrique (via un switch à contact comme le Cherry MX ou une membrane) ; de par leur fonctionnement sans contact, les claviers à switchs électro-capacitifs de Topre ou les vénérables switchs Honeywell à effet Hall ne présentent pas ce problème et n'ont pas besoin de solution software ou hardware particulière pour le contourner.
 
-![](https://i.imgur.com/n3LrTb5.png)
+### x-Key rollover & appuis simultanés
 
 Le nombre de touches pouvant être prises en compte simultanément dépend de deux facteurs : le design de la matrice du clavier, et le mode de transmission des données, qui est souvent déterminé par sa connexion. Pour l'exprimer, on parle de rollover, et plus spécifiquement de x-key rollover, x désignant le nombre de touches pouvant être prises en compte simultanément. La plupart du temps, les modifieurs (ctrl, alt, shift) ne sont pas pris en compte dans ce chiffre. Pour récapituler ce qui a été détaillé plus haut sur le rollover permis par les différentes matrices :
 
@@ -189,7 +189,7 @@ Le nombre de touches pouvant être prises en compte simultanément dépend de de
 
 • xKRO : lorsque x n'est ni 2, ni 6, ni N, on a affaire soit à une matrice complexe, soit à un clavier 6KRO dont le firmware est programmé pour tricher et faire reconnaître plus de 6 touches sans pour autant permettre le NKRO.
 
-![](https://i.imgur.com/LXigPa4.png)
+### USB & PS/2
 
 Bien qu'étant toutes deux des interfaces série prévues pour utiliser notamment clavier et souris, les interfaces PS/2 et USB se différencient sur un certain nombre de points.
 
@@ -221,7 +221,7 @@ C'est ce qui fait dire par facilité qu'un clavier PS/2 a moins de latence ou es
 
 La dernière différence notable entre PS/2 et USB concerne l'intensité du courant qu'ils sont capables de transmettre : l'interface PS/2 peut fournir 275 mA en 5 V, alors que l'USB 2.0 peut fournir 500 mA (et jusqu'à 900 mA pour l'USB 3.0). Typiquement, un microcontrôleur (et donc un clavier sans rétroéclairage) ne consomme que quelques mA (entre 5 et 20 mA pour un µC AVR), mais un rétroéclairage complet peut consommer bien plus. L'USB est globalement plus adapté pour les claviers rétroéclairés, mais quelques rares claviers proposent une connexion PS/2 pour l'envoi de données avec un connecteur USB à brancher en parallèle (où seuls les contacts d'alimentation sont actifs) pour alimenter le rétroéclairage.
 
-![](https://i.imgur.com/5u3kqzM.png)
+### Boucing et chattering
 
 Le bouncing, ou chattering, est un phénomène propre aux switchs à contact qui fait que lorsque ceux-ci sont enfoncés, leurs contacts, faits de métal souple, rebondissent l'un contre l'autre (bounce) avant de s'immobiliser et d'assurer le contact électrique. Le phénomène est très bref, mais suffisant pour être détectable par un microcontrôleur vérifiant plusieurs milliers de fois par seconde l'état des switchs qui y sont connectés.
 
