@@ -22,21 +22,29 @@ Les touches ont une certaine importance : elles sont l'interface entre nos doigt
 
 On distingue principalement trois types de plastiques utilisés pour la fabrication de touches pour claviers mécaniques : l'ABS, le PBT et le POM.
 
-• L'ABS (acrylonitrile butadiène styrène) est le matériau le plus commun, disponible en plusieurs épaisseurs ; les touches en ABS fin sont les plus faciles (et les moins chers) à fabriquer, et donc les plus répandues. Les touches en ABS fin offrent la sensation de frappe la plus basique (la moins valorisée), tandis que celles en ABS épais sont en général d'une qualité supérieure et sont plus appréciées du fait de la sonorité plus sourde qu'elles confèrent à la frappe. Une critique récurrente à l'encontre des touches en ABS concerne leur tendance à "briller", en fait à voir leur texture se lisser du fait du contact répété avec les doigts, ce qui peut donner au bout de quelques mois (quelques semaines dans le pire des cas) l'impression désagréable que leur surface est grasse en permanence.
+#### ABS
+
+L'ABS (acrylonitrile butadiène styrène) est le matériau le plus commun, disponible en plusieurs épaisseurs ; les touches en ABS fin sont les plus faciles (et les moins chers) à fabriquer, et donc les plus répandues. Les touches en ABS fin offrent la sensation de frappe la plus basique (la moins valorisée), tandis que celles en ABS épais sont en général d'une qualité supérieure et sont plus appréciées du fait de la sonorité plus sourde qu'elles confèrent à la frappe. Une critique récurrente à l'encontre des touches en ABS concerne leur tendance à "briller", en fait à voir leur texture se lisser du fait du contact répété avec les doigts, ce qui peut donner au bout de quelques mois (quelques semaines dans le pire des cas) l'impression désagréable que leur surface est grasse en permanence.
 
 Leurs légendes peuvent être pad-printed, laser-etched/engraved, doubleshot ou uv-printed (voir plus bas). A de très rares exceptions près, les touches en ABS fin sont les seules à permettre d'avoir des légendes rétroéclairées, ce qui oblige l'utilisateur à devoir choisir entre avoir des légendes rétroéclairées ou des touches de qualité.
 
 ![](http://reho.st/preview/self/0128adf46bd2dfad3acf0f5b11d06e5918a46725.png)
+
 ABS fin rétroéclairé (Ducky), ABS épais doubleshot (Cherry), ABS fin doubleshot (Signature Plastics)
 
-• Le PBT (polybutylène téréphtalate) est moins répandu car plus cher du fait d'un processus de fabrication plus délicat que pour l'ABS. Il a l'avantage d'être bien plus résistant à l'usure, ce qui lui permet, grâce à sa texture légèrement granuleuse au toucher, de ne pas être affecté par le phénomène de "brillance" propre à l'ABS plus lisse (ou de façon très marginale, et après une période d'utilisation bien plus longue). Les touches PBT sont parfois disponibles en PBT fin, mais plus souvent en PBT épais, qui sont plus appréciées du fait de la sonorité plus sourde qu'elles confèrent au clavier.
+#### PBT
+
+Le PBT (polybutylène téréphtalate) est moins répandu car plus cher du fait d'un processus de fabrication plus délicat que pour l'ABS. Il a l'avantage d'être bien plus résistant à l'usure, ce qui lui permet, grâce à sa texture légèrement granuleuse au toucher, de ne pas être affecté par le phénomène de "brillance" propre à l'ABS plus lisse (ou de façon très marginale, et après une période d'utilisation bien plus longue). Les touches PBT sont parfois disponibles en PBT fin, mais plus souvent en PBT épais, qui sont plus appréciées du fait de la sonorité plus sourde qu'elles confèrent au clavier.
 
 Les légendes peuvent être dyesub ou laser-etched/engraved, le doubleshot est possible mais bien moins aisé à fabriquer (le PBT tend à se rétracter en se refroidissant, son moulage est plus contraignant que l'ABS) donc moins répandu.
 
 ![](http://reho.st/self/78f93a745b905645290bf9ae9e94118c169a05a2.png)
+
 PBT épais laser-etched (Leopold)
 
-• Le POM (polyoxyméthylène, connu aussi sous le nom d'acétal ou de Delrin) est utilisé plus rarement encore que le PBT. Il offre une sensation de frappe sourde similaire au PBT tout en ayant une surface très lisse qui le rend semblable au toucher à de l'ABS usé, ce qui ne l'empêche pas d'être apprécié par certains utilisateurs. Les légendes sont en général laser-engraved.
+#### POM
+
+Le POM (polyoxyméthylène, connu aussi sous le nom d'acétal ou de Delrin) est utilisé plus rarement encore que le PBT. Il offre une sensation de frappe sourde similaire au PBT tout en ayant une surface très lisse qui le rend semblable au toucher à de l'ABS usé, ce qui ne l'empêche pas d'être apprécié par certains utilisateurs. Les légendes sont en général laser-engraved.
 
 D'autres plastiques peuvent être utilisés, comme le PVC, utilisé abondamment par Dell, HP, Logitech et d'autres. Par ailleurs, certaines touches peuvent être réalisés en petite série en résine, en bois, voire en métal (zinc notamment), qui valent plus pour leur esthétique que pour leur apport à la sensation de frappe.
 
@@ -44,19 +52,33 @@ D'autres plastiques peuvent être utilisés, comme le PVC, utilisé abondamment 
 
 Les légendes (lettres, symboles...) peuvent être inscrites sur les touches de diverses façons, certaines plus économiques et souvent moins durables, d'autres plus coûteuses donc moins fréquentes mais plus pérennes. On peut distinguer les techniques suivantes :
 
-• Pad printing : c'est la solution la moins chère et la plus fréquente : de l'encre est simplement appliquée sur la surface de la touche, parfois protégée par un point de vernis qui fait ressembler l'ensemble à une décalcomanie. C'est la méthode de marquage la plus répandue sur les claviers à dômes ou ciseaux (et qu'on trouve également sur des claviers mécaniques, par exemple chez Filco, qui vernit toute la surface de la touche), qui a pour défaut d'être la plus fragile (susceptible à l'usure) et de se sentir sous les doigts.
+#### Pad Printing
 
-• Dye sublimation : impression réalisée à très haute température qui donne une légende imprimée en profondeur dans la touche, qui est donc inusable et insensible au toucher. La très haute température requise pour cette opération la rend impraticable sur de l'ABS, dont la température de fusion est inférieure à celle du PBT, qui est donc le seul matériau à bénéficier de cette technique. Par ailleurs, ce procédé ne peut produire une légende de couleur plus claire que la touche : les légendes doivent obligatoirement être plus foncées que celles-ci, ce qui limite les schémas de couleurs possibles. On peut noter cependant que certains fabricants proposent maintenant un procédé d'impression inversée (reverse dye-sub) qui colore non pas la légende mais la surface de la touche qui l'entoure, ce qui permet d'avoir une légende plus claire que le reste de la touche et autorise des schémas de couleurs jusque-là inédits avec cette méthode d'impression.
+Pad printing : c'est la solution la moins chère et la plus fréquente : de l'encre est simplement appliquée sur la surface de la touche, parfois protégée par un point de vernis qui fait ressembler l'ensemble à une décalcomanie. C'est la méthode de marquage la plus répandue sur les claviers à dômes ou ciseaux (et qu'on trouve également sur des claviers mécaniques, par exemple chez Filco, qui vernit toute la surface de la touche), qui a pour défaut d'être la plus fragile (susceptible à l'usure) et de se sentir sous les doigts.
 
-• Doubleshot ou "doubleshot injection molding", moulage à double injection : chaque touche est réalisée en deux temps, en premier lieu la légende est moulée avec une armature, puis le reste de la touche est moulé par-dessus (démonstration en vidéo). La légende ainsi moulée dans l'épaisseur de la touche est inusable et insensible au toucher. Ce procédé est généralement effectué sur de l'ABS (fin ou épais), s'étend depuis quelques années au PBT, et permet n'importe quelle combinaison de couleurs pour la touche et la légende.
+#### Dye Sublimation
 
-• Laser engraving : les légendes sont gravées au laser, parfois laissées telles quelles (et donc très discrètes), parfois remplies d'encre dont la couleur contraste avec celle de la touche, qui peut se décolorer au fil du temps. On parle alors de touche "engraved & infilled".
+Dye sublimation : impression réalisée à très haute température qui donne une légende imprimée en profondeur dans la touche, qui est donc inusable et insensible au toucher. La très haute température requise pour cette opération la rend impraticable sur de l'ABS, dont la température de fusion est inférieure à celle du PBT, qui est donc le seul matériau à bénéficier de cette technique. Par ailleurs, ce procédé ne peut produire une légende de couleur plus claire que la touche : les légendes doivent obligatoirement être plus foncées que celles-ci, ce qui limite les schémas de couleurs possibles. On peut noter cependant que certains fabricants proposent maintenant un procédé d'impression inversée (reverse dye-sub) qui colore non pas la légende mais la surface de la touche qui l'entoure, ce qui permet d'avoir une légende plus claire que le reste de la touche et autorise des schémas de couleurs jusque-là inédits avec cette méthode d'impression.
 
-• Laser etching : un autre type de marquage au laser qui ne grave pas la légende, mais chauffe suffisamment la surface de la touche pour changer sa couleur et parfois sa texture. Le procédé permet de créer des légendes gris foncé sur des touches claires, ou des légendes gris clair sur des touches foncées. La couleur des légendes ainsi produites est moins contrastée que ce que d'autres procédés permettent d'obtenir, et la durabilité varie d'un fabricant à un autre.
+#### Doubleshot
 
-• UV printing : une impression à très haute résolution sur les touches, qui sont ensuite recouvertes d'un vernis séchant aux UV. C'est une méthode assez peu répandue, et dont les résultats (vibrance des couleurs, altération de la texture du matériau et durabilité) varient selon les fabricants. Par ailleurs, elle ne semble actuellement proposée que sur de l'ABS fin, ce qui peut expliquer le manque d'intérêt pour cette technique dès lors qu'elle n'est pas réalisée sur de touches de qualité.
+Doubleshot ou "doubleshot injection molding", moulage à double injection : chaque touche est réalisée en deux temps, en premier lieu la légende est moulée avec une armature, puis le reste de la touche est moulé par-dessus (démonstration en vidéo). La légende ainsi moulée dans l'épaisseur de la touche est inusable et insensible au toucher. Ce procédé est généralement effectué sur de l'ABS (fin ou épais), s'étend depuis quelques années au PBT, et permet n'importe quelle combinaison de couleurs pour la touche et la légende.
 
-• UV coating : au sens strict, c'est l'application d'un vernis séchant aux UV comme étape de finition/protection. Dans le jargon des fabricants et vendeurs, c'est une caractéristique de certaines touches rétroéclairées : les touches sont réalisées en plastique translucide, peintes, puis les légendes sont gravées au laser pour révéler le plastique translucide qui laissera passer le rétroéclairage. La surface de la touche est ensuite protégée par un vernis UV comme décrit plus haut. A de très rares exceptions près, les touches rétroéclairées sont réalisées uniquement en ABS fin, et leur surface peinte + vernie leur confine une texture plus lisse que de l'ABS classique (et donc la sensations que la surface est grasse, ce qui est souvent perçu comme un défaut).
+#### Laser Engraving
+
+Laser engraving : les légendes sont gravées au laser, parfois laissées telles quelles (et donc très discrètes), parfois remplies d'encre dont la couleur contraste avec celle de la touche, qui peut se décolorer au fil du temps. On parle alors de touche "engraved & infilled".
+
+#### Laser Etching
+
+Laser etching : un autre type de marquage au laser qui ne grave pas la légende, mais chauffe suffisamment la surface de la touche pour changer sa couleur et parfois sa texture. Le procédé permet de créer des légendes gris foncé sur des touches claires, ou des légendes gris clair sur des touches foncées. La couleur des légendes ainsi produites est moins contrastée que ce que d'autres procédés permettent d'obtenir, et la durabilité varie d'un fabricant à un autre.
+
+#### UV Printing
+
+UV printing : une impression à très haute résolution sur les touches, qui sont ensuite recouvertes d'un vernis séchant aux UV. C'est une méthode assez peu répandue, et dont les résultats (vibrance des couleurs, altération de la texture du matériau et durabilité) varient selon les fabricants. Par ailleurs, elle ne semble actuellement proposée que sur de l'ABS fin, ce qui peut expliquer le manque d'intérêt pour cette technique dès lors qu'elle n'est pas réalisée sur de touches de qualité.
+
+#### UV Coating
+
+UV coating : au sens strict, c'est l'application d'un vernis séchant aux UV comme étape de finition/protection. Dans le jargon des fabricants et vendeurs, c'est une caractéristique de certaines touches rétroéclairées : les touches sont réalisées en plastique translucide, peintes, puis les légendes sont gravées au laser pour révéler le plastique translucide qui laissera passer le rétroéclairage. La surface de la touche est ensuite protégée par un vernis UV comme décrit plus haut. A de très rares exceptions près, les touches rétroéclairées sont réalisées uniquement en ABS fin, et leur surface peinte + vernie leur confine une texture plus lisse que de l'ABS classique (et donc la sensations que la surface est grasse, ce qui est souvent perçu comme un défaut).
 
 Plus d'informations et de photos sur le [wiki Deskthority]
 
@@ -150,6 +172,7 @@ La solution la plus aboutie consiste à adjoindre une diode à chaque switch : d
 Cette solution à base de diodes n'est possible que sur un clavier doté d'un circuit imprimé (pcb) sur lequel sont présents les pistes de cuivre constituant la matrice, les diodes et les switchs ; un clavier à membrane étant précisément constitué de plusieurs membranes souples en lieu et place d'un pcb, le recours aux diodes est impossible : c'est la raison pour laquelle les claviers à membrane n'ont que le blocking pour recours et sont la plupart du temps 2KRO (sauf dans le cas peu fréquent de matrices spéciales).
 
 ![](https://i.imgur.com/8KU3Bgv.png)
+
 L'envers d'un PCB de clavier, avec une diode (en orange) par switch.
 
 On notera enfin que ces problèmes de ghosting et de jamming ne concernent que les claviers où la prise en compte d'un appui repose sur un contact électrique (via un switch à contact comme le Cherry MX ou une membrane) ; de par leur fonctionnement sans contact, les claviers à switchs électro-capacitifs de Topre ou les vénérables switchs Honeywell à effet Hall ne présentent pas ce problème et n'ont pas besoin de solution software ou hardware particulière pour le contourner.
@@ -170,7 +193,7 @@ Le nombre de touches pouvant être prises en compte simultanément dépend de de
 
 Bien qu'étant toutes deux des interfaces série prévues pour utiliser notamment clavier et souris, les interfaces PS/2 et USB se différencient sur un certain nombre de points.
 
-• Rollover
+#### Rollover
 
 L'interface PS/2 ne limite pas le nombre d'appuis transmissible simultanément, autrement dit elle autorise le NKRO si le design électrique du clavier le permet (cf. plus haut).
 
@@ -188,13 +211,13 @@ En pratique, de multiples problèmes se posent :
 
 Il n'y a donc pas de meilleure solution : s'il est souhaitable de pouvoir utiliser son clavier en NKRO si sa conception ne permet, les cas où un utilisateur sera limité par le 6KRO (6 touches + modifieurs) sont somme toute peu courants et ce dernier mode est le seul permettant de communiquer avec son pc avant d'arriver dans l'OS. Un clavier USB permettant de choisir 6KRO ou NKRO représente la solution la plus flexible, mais elle n'est pas pour autant indispensable.
 
-• Transmission des données
+#### Transmission des données
 
 Une autre différence notable entre PS/2 et USB réside dans leur façon de transmettre les données: l'USB fonctionne en attente active (polling), alors que le PS/2 fonctionne par interruption (interrupt). En attente active, l'ordinateur auquel le clavier est connecté écoute à intervalles réguliers (par défaut 125 fois par seconde en USB, d'où le taux de polling de 125 Hz) si le clavier envoie des données ; à l'inverse, un clavier fonctionnant par interruption envoie ses données immédiatement qui sont reçues sans délai par l'ordinateur.
 
 C'est ce qui fait dire par facilité qu'un clavier PS/2 a moins de latence ou est plus réactif qu'un clavier USB : en PS/2 la frappe est transmise sans délai, alors qu'il peut être de 8 ms en USB (et peut descendre à 1 ms lorsque l'USB fonctionne à 1000 Hz). Si vous pensez que ces quelques millisecondes ont une réelle importance en jeu, commencez par mesurer votre réactivité, et voyez ensuite si ces 8 ms pèsent lourd par rapport à votre propre temps de réaction.
 
-• Alimentation électrique
+#### Alimentation électrique
 
 La dernière différence notable entre PS/2 et USB concerne l'intensité du courant qu'ils sont capables de transmettre : l'interface PS/2 peut fournir 275 mA en 5 V, alors que l'USB 2.0 peut fournir 500 mA (et jusqu'à 900 mA pour l'USB 3.0). Typiquement, un microcontrôleur (et donc un clavier sans rétroéclairage) ne consomme que quelques mA (entre 5 et 20 mA pour un µC AVR), mais un rétroéclairage complet peut consommer bien plus. L'USB est globalement plus adapté pour les claviers rétroéclairés, mais quelques rares claviers proposent une connexion PS/2 pour l'envoi de données avec un connecteur USB à brancher en parallèle (où seuls les contacts d'alimentation sont actifs) pour alimenter le rétroéclairage.
 
