@@ -8,7 +8,7 @@ title: Guide Comment choisir
 
 # Comment choisir?
 
-• Le Marketing
+### Le Marketing
 
 Plus qu'une réhabilitation, les claviers mécaniques ont connu ces dernières années un véritable retour en vogue, pour le meilleur comme pour le pire : un certain nombre de constructeurs ont pris pour cible le "gamer" et la communication s'est établie en grande partie sur des caractéristiques susceptibles de lui plaire (rétroéclairage, look agressif, macros et programmation, le tout saupoudré de jargon technique souvent peu informatif), à grand renfort de publicité et de sponsoring dans l'e-sport, et en misant souvent plus sur un design tapageur et une liste de features longue comme le bras au dépend de ce qui a fait la réputation des claviers mécaniques — la solidité et la fiabilité.
 
@@ -16,7 +16,7 @@ C'est ainsi qu'on se retrouve parfois avec des jouets à l'apparence tape-à-l�
 
 Cette mise en garde passée, venons-en au fait : comment, dans la jungle actuelle de références, choisir son clavier ? A ce stade, vous devriez avoir une idée plus précise de ce que le marché a à offrir, mais voici un récapitulatif des points à considérer pour sélectionner les références qui s'offrent à vous :
 
-• Type de switch
+### Type de switch
 
 C'est la première question à se poser : quel switch désirez-vous utiliser ? Dans l'absolu, il n'y a pas de règles fixes, en dépit des guides recommandant un type de switch précis pour chaque usage : tout est question de goût et surtout d'habitude, et il est fort probable que vous apprécierez autant un type de switch qu'un autre, même si les raisons sont différentes.
 
@@ -30,7 +30,7 @@ Puisqu'il faut bien faire un choix, on peut garder ces quelques règles en tête
 
 Dans tous les cas, on trouve de nombreuses personnes pour qui, contrairement aux règles qu'on pense établies, écrire sur un clavier en MX Red (linéaire) est bien plus plaisant qu'avec des MX Brown (tactiles), ou qui préfèrent le Blue (tactile clicky) au Red pour jouer : il n'y a donc pas switch mauvais en soi pour tel ou tel usage, et si vous n'avez jamais encore utilisé un clavier mécanique, n'importe quel switch vous demandera de toute façon un petit temps d'adaptation.
 
-• Format
+### Format
 
 Une question pas forcément évidente : de quelle taille de clavier avez-vous besoin ?
 
@@ -42,13 +42,13 @@ Une question pas forcément évidente : de quelle taille de clavier avez-vous be
 
 Quoi qu'il en soit, gardez à l'esprit qu'on n'achète pas un nombre de touches mais un format, une ergonomie, et qu'un TKL vendu au prix d'un full size n'est pas une arnaque en soi.
 
-• Disposition
+### Disposition
 
 De façon intuitive, la disposition choisie dépendra de la langue que vous utilisez couramment, mais comme dit plus haut rien ne vous empêche d'utiliser un clavier ANSI (US) pour taper en français, tant que vous êtes capable de vous adapter aux différences entre ce qui est écrit sur la touche et le caractère effectivement interprété par l'OS (ce qui n'a rien de compliqué, c'est une simple habitude à prendre).
 
 Il est à noter que si vous désirez tirer parti de l'écosystème Cherry MX (touches de remplacement...), c'est l'ANSI qui vous offrira la plus grande latitude : la plupart des keysets disponibles le sont uniquement pour la disposition ANSI, le choix de keysets ISO étant particulièrement limité.
 
-• Rétroéclairage
+### Rétroéclairage
 
 Une fonctionnalité qui a gagné en popularité ces dernières années, pour le meilleur comme pour le pire ; mais si on peut débattre de l'intérêt de rétroéclairages façon arc en ciel, un rétroéclairage sobre a une utilité indiscutable dans certaines situations (même si les puristes argueront de l'inutilité de regarder son clavier lorsqu'on connaît sa disposition, ce en quoi ils n'auront pas tort). Quelques recommandations :
 
@@ -58,7 +58,7 @@ Une fonctionnalité qui a gagné en popularité ces dernières années, pour le 
 
 - Du fait de leur méthode de fabrication (plastique translucide recouvert de peinture puis gravé au laser), les touches des claviers rétroéclairés voient parfois leur lettrage s'user plus vite que des touches opaques marquées via d'autres méthodes. Certains "traitements UV" appliqués par le fabricant (en fait, un simple vernis) aident à prévenir l'usure. C'est un problème qui semble de moins en moins fréquent, mais pensez à vous renseigner sur la durabilité des touches du modèle que vous visez s'il est rétroéclairé.
 
-• Fonctionnalités diverses
+### Fonctionnalités diverses
 
 Du fait d'une concurrence toujours plus accrue, les constructeurs rivalisent d'idées pour distinguer leurs produits ; parfois en misant sur le design, parfois sur des fonctionnalités supplémentaires, dont il est bien entendu qu'elles vous sont forcément indispensable. Voici un aperçu de ce que vous pouvez trouver, et en quoi on peut ne pas y accorder une importance capitale pour faire son choix :
 
@@ -72,7 +72,7 @@ Du fait d'une concurrence toujours plus accrue, les constructeurs rivalisent d'i
 
 - repose-poignet : il mériterait un chapitre à lui entier, mais sachez d'abord qu'un repose-poignet s'utilise idéalement en y reposant le bas de la paume ; y appuyer ses poignets, au repos ou — pire — en tapant/jouant, c'est s'assurer des problèmes futurs au niveau du canal carpien. Par ailleurs, un repose-poignet ne remplacera jamais une position correcte face à son bureau — si vous y reposez vos avant-bras et que vos poignets sont plus hauts que vos coudes, c'est que votre chaise est trop basse, ou votre bureau trop haut. Si vraiment en dépit d'une position correcte un repose-poignet vous est nécessaire et que le clavier que vous visez en est dépourvu, on en trouve dans différents matériaux (mousse, cuir, bois), différentes tailles et pour différents prix (10-40€) qui peuvent être utilisés avec n'importe quel clavier.
 
-• Qualité de fabrication & fiabilité
+### Qualité de fabrication & fiabilité
 
 Quelles que soient les caractéristiques que vous recherchez, évitez de faire passer la qualité de l'ensemble au dernier plan. Comme dit plus haut, la course à l'originalité et la concurrence sur un secteur de niche, mais que les constructeurs souhaitent justement élargir, en amène beaucoup à investir plus en marketing et sponsoring qu'en contrôle qualité. Même des marques apparemment sérieuses et aux produits apparemment robustes peuvent sortir des claviers peu fiables — au hasard, un châssis séduisant en aluminium ne présage en rien de la fiabilité de l'électronique du clavier. Renseignez-vous donc bien sur la fiabilité de ce que vous voulez acheter (la promesse d'un retour facile en SAV n'est pas une excuse pour vendre un mauvais produit).
 

@@ -10,7 +10,7 @@ title: Guide Layouts
 
 Il y a deux façons de décrire la disposition (le layout) des touches d'un clavier : la disposition physique et la disposition logique. Ces deux notions sont complémentaires.
 
-• disposition physique : ANSI et ISO
+### disposition physique : ANSI et ISO
 
 La disposition physique correspond à la façon dont les touches sont agencées les unes par rapport aux autres, indépendamment des lettres/caractères qui y sont associées. On distingue principalement deux dispositions physiques , l'ANSI et l'ISO (on trouve aussi le JIS, qui n'est courant qu'au Japon). Voici la façon dont elles sont agencées :
 
@@ -30,7 +30,7 @@ Comme les noms de ces dispositions l'indiquent (cf. liens wiki plus haut), l'ANS
 
 La dispositions physique, c'est une chose, encore faut-il savoir quelle touche correspond à quelle caractère, et c'est pour ça qu'une fois la disposition physique considéré, on doit aborder...
 
-• La disposition logique : ne dites plus "azerty" ou "qwerty"
+### La disposition logique : ne dites plus "azerty" ou "qwerty"
 
 La disposition logique correspond à la répartition des caractères sur les touches du clavier : c'est là qu'on parle d'azerty, de qwerty voire de qwertz ou de qzerty, mais ces appellations ont le défaut d'être vagues et d'entretenir une certaine confusion : le qwerty US est différent du qwerty UK et a une touche en moins, l'azerty belge est différent de l'azerty français... Pour éviter cette confusion, il vaut mieux, lorsqu'on parle de la disposition d'un clavier, donner son appellation complète, c'est à dire sa disposition physique et logique :
 
@@ -42,7 +42,7 @@ La disposition logique correspond à la répartition des caractères sur les tou
 
 Et ainsi de suite. Pour plus d'infos sur les différentes variantes, cf. wikipedia.
 
-• Langue et OS
+### Langue et OS
 
 Il est à noter que la disposition physique ou logique d'un clavier ne présume en rien des caractères qu'il peut envoyer à un pc : à ce niveau, c'est la disposition choisie dans l'OS (dans les options régionales/de langue) qui prime. Autrement dit, vous pouvez tout à fait utiliser ce genre de combinaisons :
 
