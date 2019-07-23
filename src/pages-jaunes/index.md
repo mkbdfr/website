@@ -114,6 +114,7 @@ title: Pages Jaunes
 - [https://typing.io/](https://typing.io/)
 - Linux
   - [gtypist](https://www.gnu.org/savannah-checkouts/gnu/gtypist/gtypist.html)
+  - [kTouch](https://kde.org/applications/education/org.kde.ktouch)
 
 ## Tester son clavier
 
