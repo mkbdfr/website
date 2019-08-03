@@ -3,17 +3,16 @@ footer {
   background-color: $noir;
   width: 100%;
   margin-top: 20px;
-  height: 150px;
+  height: auto;
   color: white;
-  position: relative;
   margin-top: 20px;
   padding: 20px;
-  flex-shrink: 0;
+  position:absolute;
+  bottom:0;
 }
 
 .footer__social {
   text-align: center;
-
   a {
     text-decoration: none;
     margin: 20px;

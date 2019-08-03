@@ -1,66 +1,122 @@
 ---
 templateClass: tmpl-home
 images:
-  - bg.jpg
+- bg.jpg
 title: Accueil
 ---
 <!DOCTYPE html>
 <html>
-  <head>
-    {% include 'layouts/partials/_head.njk' %}
-  </head>
-  <body>
+
+<head>
+  {% include 'layouts/partials/_head.njk' %}
+</head>
+
+<body>
+
+  <header>
     {% include 'layouts/partials/_nav.njk' %}
-    <header>
-      <h2 class="big-title">Mechanical Keyboards<br><span class="red">France</span></h2>
-      <div class="header-bg">
+    <!-- <h2 class="big-title">Mechanical Keyboards<br><span class="red">France</span></h2> -->
+    <!-- <div class="header-bg">
         {# <img src="img/bg.jpg" alt=""> #}
-      </div>
-    </header>
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-      <section class="home_intro">
-        <p>Bienvenue dans le groupe des claviéristes français !</p>
-      </section>
-      <!-- <div class="jumbotron">
-        <div class="jumbotron__image"></div>
-        <div class="jumbotron__content">
-          <h2 class="jumbotron__title">Meetup 2019!</h2>
-          <p class="jumbotron__sublabel">
-                  On se voit et on se touche les touches.
-              </p>
-          <a href="{{ '/meetup' | url }}" class="jumbotron__bouton">
-            <div class="keycap">En savoir plus</div>
-          </a>
-        </div>
       </div> -->
-      <section class="narrow text-center">
-        <div style="max-width:500px;margin:0 auto;">
-          <a href="/meetup"><img class="affiche" src="img/mkfr-meetup-2019.png" alt=""></a>
-        </div>
-      </section>
-      <section>
-        <h3>Nous rejoindre</h3>
-        <div class="communaute">
-          <a href="https://discord.gg/dtPuEBr" target="_blank" aria-label="Nous rejoindre sur Discord">
-            <i class="fab fa-discord"></i>
-          </a>
-          <a href="https://twitter.com/mkbdfr" target="_blank" aria-label="Nous suivre sur Twitter">
-            <i class="fab fa-twitter"></i>
-          </a>
-          <a href="https://www.instagram.com/mkbdfr/" target="_blank" aria-label="Nous suivre sur Instagram">
-            <i class="fab fa-instagram"></i>
-          </a>
-          <a href="https://www.facebook.com/groups/291762867913654/" target="_blank" aria-label="Nous rejoindre sur Facebook">
-            <i class="fab fa-facebook-square"></i>
-          </a>
-          <a href="https://www.meetup.com/Mechanical-Keyboards-Paris" target="_blank" aria-label="Nous rejoindre sur Meetup">
-            <i class="fab fa-meetup"></i>
-          </a>
-          <a href="https://github.com/claviers" target="_blank" aria-label="Nous rejoindre sur Github">
-            <i class="fab fa-github"></i>
-          </a>
-        </div>
-      </section>
+  </header>
+  <main{% if templateClass %} class="{{ templateClass }}" {% endif %}>
+    <div class="jumbotron">
+      <div class="jumbotron__image">
+        <picture>
+          <source media="(min-width: 36em)"
+            srcset="img/meetup-large.png  1024w, img/meetup-medium.png 640w, img/meetup-small.png  320w"
+            sizes="33.3vw" />
+          <source srcset="img/meetup-medium-vert.png 2x,  img/meetup-small-vert.png 1x" />
+          <img src="img/meetuplarge.png" alt="A rad wolf" />
+        </picture>
+      </div>
+      <div class="jumbotron__content">
+        <h2 class="jumbotron__title">Meetup 2019!</h2>
+        <p class="jumbotron__sublabel">
+          On se voit et on se touche les touches.
+        </p>
+        <a href="{{ '/meetup' | url }}" class="jumbotron__bouton">
+          <!-- <div class="keycap">En savoir plus</div> -->
+          En savoir plus </a>
+      </div>
+    </div>
+    <div class="dual-panel">
+      <div class="image">
+        <img src="img/bg.jpg" alt="">
+      </div>
+      <div class="texte">
+          <h2>Guides</h2>
+        <ul>
+          <li>
+            <a href="#">Ceci est du contenu</a>
+          </li>
+          <li>
+            <a href="#">Ceci est du contenu</a>
+          </li>
+          <li>
+            <a href="#">Ceci est du contenu</a>
+          </li>
+          <li>
+            <a href="#">Ceci est du contenu</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="dual-panel">
+
+      <div class="texte">
+          <h2>Photos</h2>
+
+        <ul>
+          <li>
+            <a href="#">Ceci est du contenu</a>
+          </li>
+          <li>
+            <a href="#">Ceci est du contenu</a>
+          </li>
+          <li>
+            <a href="#">Ceci est du contenu</a>
+          </li>
+          <li>
+            <a href="#">Ceci est du contenu</a>
+          </li>
+
+        </ul>
+      </div>
+      <div class="image">
+        <img src="img/bg.jpg" alt="">
+      </div>
+    </div>
+    <!-- <section class="home_intro">
+      <p>Bienvenue dans le groupe des claviéristes français !</p>
+    </section> -->
+
+    <!-- <section class="narrow text-center">
+      <div style="max-width:500px;margin:0 auto;">
+        <a href="/meetup"><img class="affiche" src="img/mkfr-meetup-2019.png" alt=""></a>
+      </div>
+    </section> -->
+    <section>
+      <h3>Nous rejoindre</h3>
+      <div class="communaute">
+        <a href="https://discord.gg/dtPuEBr" target="_blank" aria-label="Nous rejoindre sur Discord">
+          <i class="fab fa-discord"></i>
+        </a>
+        <a href="https://www.facebook.com/groups/291762867913654/" target="_blank"
+          aria-label="Nous rejoindre sur Facebook">
+          <i class="fab fa-facebook-square"></i>
+        </a>
+        <a href="https://www.meetup.com/Mechanical-Keyboards-Paris" target="_blank"
+          aria-label="Nous rejoindre sur Meetup">
+          <i class="fab fa-meetup"></i>
+        </a>
+        <a href="https://github.com/claviers" target="_blank" aria-label="Nous rejoindre sur Github">
+          <i class="fab fa-github"></i>
+        </a>
+      </div>
+    </section>
     </main>
-  </body>
+</body>
+
 </html>
