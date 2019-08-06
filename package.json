@@ -10,7 +10,7 @@
     "serve": "npm-run-all --parallel eleventyServe watchscss",
     "prettier": "prettier -c ./src/**/*.*",
     "prettier:fix": "prettier -c ./src/**/*.* --write",
-    "build": "eleventy && echo 'claviers-mecaniques.fr' >> dist/CNAME"
+    "build": "eleventy"
   },
   "author": "",
   "license": "ISC",
