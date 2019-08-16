@@ -3,10 +3,10 @@ layout: layouts/page.njk
 tags:
   - nav
 navtitle: Guides
-title: Guide Anatomie
+title: Anatomie du clavier
+img: bg-page.jpg
 ---
 
-# Anatomie du clavier
 
 La plupart des claviers sont construits de la façon suivante : les switches, chacun surmonté d'une touche (keycap), sont montés sur une plaque (plate en anglais), la plupart du temps en acier, plus rarement en aluminium ou en plastique, dans laquelle des découpes sont effectuées pour y insérer les switchs. L'ensemble est placé sur un PCB (circuit imprimé) sur lequel se trouve l'électronique nécessaire à son fonctionnement (diodes, résistances, LEDs, microcontrôleur et sortie USB). L'ensemble est ensuite placé dans un châssis, la plupart du temps en plastique (ABS, parfois recouvert d'un revêtement "peau de pêche" ), parfois en aluminium ou acrylique dans le cas de séries spéciales.
 

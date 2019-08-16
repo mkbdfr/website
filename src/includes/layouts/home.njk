@@ -13,22 +13,18 @@ title: Accueil
 
 <body>
 
-  <header>
+ 
     {% include 'layouts/partials/_nav.njk' %}
-    <!-- <h2 class="big-title">Mechanical Keyboards<br><span class="red">France</span></h2> -->
-    <!-- <div class="header-bg">
-        {# <img src="img/bg.jpg" alt=""> #}
-      </div> -->
-  </header>
+
   <main{% if templateClass %} class="{{ templateClass }}" {% endif %}>
     <div class="jumbotron">
       <div class="jumbotron__image">
         <picture>
           <source media="(min-width: 36em)"
-            srcset="img/meetup-large.png  1024w, img/meetup-medium.png 640w, img/meetup-small.png  320w"
+            srcset="img/meetup-large.jpg  1024w, img/meetup-medium.jpg 640w, img/meetup-small.jpg  320w"
             sizes="33.3vw" />
-          <source srcset="img/meetup-medium-vert.png 2x,  img/meetup-small-vert.png 1x" />
-          <img src="img/meetuplarge.png" alt="A rad wolf" />
+          <source srcset="img/meetup-medium-vert.jpg 2x,  img/meetup-small-vert.jpg 1x" />
+          <img src="img/meetuplarge.jpg" alt="A rad wolf" />
         </picture>
       </div>
       <div class="jumbotron__content">
@@ -43,80 +39,62 @@ title: Accueil
     </div>
     <div class="dual-panel">
       <div class="image">
-        <img src="img/bg.jpg" alt="">
+        <img src="img/bg1.jpg" alt="">
       </div>
       <div class="texte">
           <h2>Guides</h2>
-        <ul>
-          <li>
-            <a href="#">Ceci est du contenu</a>
-          </li>
-          <li>
-            <a href="#">Ceci est du contenu</a>
-          </li>
-          <li>
-            <a href="#">Ceci est du contenu</a>
-          </li>
-          <li>
-            <a href="#">Ceci est du contenu</a>
-          </li>
-        </ul>
+       
+  <ol>
+    <li>
+      <a href="{{ '/guides/les-bases/1-generalites' | url }}">Generalites</a>
+    </li>
+    <li>
+      <a href="{{ '/guides/les-bases/2-switchs' | url }}">Les switchs</a>
+    </li>
+    <li>
+      <a href="{{ '/guides/les-bases/3-formats' | url }}">Les formats</a>
+    </li>
+    <li>
+      <a href="{{ '/guides/les-bases/4-layouts' | url }}">Layout : disposition des <br> touches et des caractères</a>
+    </li>
+    <li>
+      <a href="{{ '/guides/les-bases/5-comment-choisir' | url }}">Comment choisir ?</a>
+    </li>
+    <li>
+      <a href="{{ '/guides/les-bases/6-anatomie' | url }}">Anatomie d'un clavier</a>
+    </li>
+  </ol>
+
       </div>
     </div>
     <div class="dual-panel">
 
       <div class="texte">
-          <h2>Photos</h2>
+          <h2>Pages Jaunes</h2>
 
         <ul>
           <li>
-            <a href="#">Ceci est du contenu</a>
+            <a href="{{ '/pages-jaunes' | url }}">Communautés anglophones</a>
           </li>
           <li>
-            <a href="#">Ceci est du contenu</a>
+            <a href="{{ '/pages-jaunes' | url }}">Vendeurs de claviers et pièces</a>
           </li>
           <li>
-            <a href="#">Ceci est du contenu</a>
+            <a href="{{ '/pages-jaunes' | url }}">Vendeurs de pièces</a>
           </li>
           <li>
-            <a href="#">Ceci est du contenu</a>
+            <a href="{{ '/pages-jaunes' | url }}">Etc...</a>
           </li>
 
         </ul>
       </div>
       <div class="image">
-        <img src="img/bg.jpg" alt="">
+        <img src="img/bg2.jpg" alt="">
       </div>
     </div>
-    <!-- <section class="home_intro">
-      <p>Bienvenue dans le groupe des claviéristes français !</p>
-    </section> -->
 
-    <!-- <section class="narrow text-center">
-      <div style="max-width:500px;margin:0 auto;">
-        <a href="/meetup"><img class="affiche" src="img/mkfr-meetup-2019.png" alt=""></a>
-      </div>
-    </section> -->
-    <section>
-      <h3>Nous rejoindre</h3>
-      <div class="communaute">
-        <a href="https://discord.gg/dtPuEBr" target="_blank" aria-label="Nous rejoindre sur Discord">
-          <i class="fab fa-discord"></i>
-        </a>
-        <a href="https://www.facebook.com/groups/291762867913654/" target="_blank"
-          aria-label="Nous rejoindre sur Facebook">
-          <i class="fab fa-facebook-square"></i>
-        </a>
-        <a href="https://www.meetup.com/Mechanical-Keyboards-Paris" target="_blank"
-          aria-label="Nous rejoindre sur Meetup">
-          <i class="fab fa-meetup"></i>
-        </a>
-        <a href="https://github.com/claviers" target="_blank" aria-label="Nous rejoindre sur Github">
-          <i class="fab fa-github"></i>
-        </a>
-      </div>
-    </section>
     </main>
+    {% include 'layouts/partials/_footer.njk' %}
 </body>
 
 </html>

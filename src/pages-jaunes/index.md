@@ -4,11 +4,10 @@ tags:
   - nav
 navtitle: Pages Jaunes
 title: Pages Jaunes
+img: bg-page.jpg
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/css/flag-icon.min.css" />
-
-# Pages Jaunes
 
 ## Communautés anglophones
 

@@ -3,52 +3,18 @@ header {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-flow: column nowrap;
   flex-flow: column nowrap;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
   justify-content: center;
-}
-
-.big-title {
-  margin: auto;
-  text-transform: uppercase;
-  font-weight: 900;
-  font-size: 6rem;
-  font-family: 'fv-almelo-regular';
-  color:$bleu;
-  text-align: center;
-  line-height: 1;
-  margin-bottom: 30px;
-  .red {
-    color: $rouge;
-  }
-}
-
-.header-bg {
-  position: absolute;
-  content: ' ';
-  height: auto;
-  -webkit-filter: grayscale(100%) contrast(1);
-  filter: grayscale(100%) contrast(1);
-  mix-blend-mode: darken;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  z-index: -1;
-  width: 100%;
-  margin-top: 40px;
-  opacity: 0.8;
 }
 
 nav {
   width: 100%;
-  height: 40px;
+  height: 80px;
+  background: $noir;
+border-bottom: 3px solid $rouge;
+  @media(max-width: 700px) {
+    height: 40px;
+  }
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -88,7 +54,7 @@ nav {
       color:$bleu;
     }
 
-    @media (max-width: 420px) {
+    @media (max-width: 460px) {
       font-size: 1.2rem;
      
     }

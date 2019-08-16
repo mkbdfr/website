@@ -3,10 +3,9 @@ layout: layouts/page.njk
 tags:
   - nav
 navtitle: Guides
-title: Guide Formats
+title: Les Formats
+img: bg-page.jpg
 ---
-
-# Les Formats
 
 On trouve des claviers de toutes les tailles (et maintenant de toutes les formes), avec un nombre variable de touches. Concernant les tailles, on peut distinguer trois familles :
 

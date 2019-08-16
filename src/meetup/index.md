@@ -4,6 +4,7 @@ tags:
   - nav
 navtitle: Meetup
 title: Meetup
+img: meetup-medium-vert.jpg
 ---
 
 ## Où ?
@@ -32,7 +33,14 @@ Toutes les photos des précédents meetups sont [ici](https://www.meetup.com/Mec
 
 ## Nos sponsors
 
-- Gandi - hébergement, pizzas et bières !
+<div class="sponsors">
+  <ul>
+    <li><a href=""><img src="/img/gandi.jpg" alt="sponsor gandi"></a></li>
+    <li><a href=""><img src="/img/gandi.jpg" alt="sponsor gandi"></a></li>
+    <li><a href=""><img src="/img/bg-page.jpg" alt="sponsor gandi"></a></li>
+  </ul>
+</div>
+
 - Numberly - cartons, badges
 - Toi ou ton entreprise ? Contacte-moi !
 
