@@ -20,9 +20,11 @@ title: Accueil
     <div class="jumbotron">
       <div class="jumbotron__image">
         <picture>
-          <img src="img/meetup-large.jpg" media="(min-width: 36em)"
-            srcset="img/meetup-large.jpg  640w, img/meetup-medium.jpg 480w, img/meetup-small.jpg  320w, img/meetup-medium-vert.jpg 2x,  img/meetup-small-vert.jpg 1x"
+          <source  media="(min-width: 36em)"
+            srcset="img/meetup-large.jpg  640w, img/meetup-medium.jpg 480w, img/meetup-small.jpg  320w"
             sizes="33.3vw" />
+            <source srcset="img/meetup-medium-vert.jpg 2x,  img/meetup-small-vert.jpg 1x"/>
+            <img src="img/meetup-large.jpg"/>
         </picture>
       </div>
       <div class="jumbotron__content">
