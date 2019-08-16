@@ -1,22 +1,22 @@
+html {
+  font-size: 62.5%;
+}
 body {
   background: $bleu-gris;
   font-feature-settings: 'onum' 1;
   text-rendering: optimizeLegibility;
   font-feature-settings: 'kern' 1;
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   display: flex;
-  flex-direction: column;
-}
-html {
-  font-size: 62.5%;
-}
-
-body {
-  height: 100%;
+  flex-flow: column nowrap;
+  font-family:  'Roboto', sans-serif;
+  min-height: 100vh;
+  width:100%;
+  margin:0; 
 }
 
 main {
-  flex: 1 0 auto;
+  flex: 1;
 }
 
 section {
@@ -30,12 +30,6 @@ section {
     font-weight: 900;
     font-size: 2rem;
     color:#FFF;
-    // background: linear-gradient(150deg, #ffd14a 15%, #fe8bc4 70%, #d084fe 94%);
-    // background-clip: border-box;
-    // box-decoration-break: clone;
-    // -webkit-background-clip: text;
-    // -webkit-text-fill-color: transparent;
-    // -webkit-box-decoration-break: clone;
   }
 
   img {
@@ -64,23 +58,29 @@ h1 {
   font-weight: 900;
   font-size: 6.2rem;
   line-height: 1;
-  margin-bottom: 30px;
+  margin-top:40px;
+
+  margin-bottom:40px;
 }
 
 h2 {
   font-weight: 900;
   font-size: 4.2rem;
   line-height: 1;
-  margin-bottom: 20px;
-  margin-top: 20px;
+  margin-bottom: 30px;
 }
 
 h3 {
   font-weight: 900;
   font-size: 3rem;
   line-height: 1;
-  margin-bottom: 10px;
-  margin-top: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+a, p, ol, ul {
+  font-family: 'Roboto';
+  font-weight: 200;
 }
 
 a {
@@ -93,8 +93,21 @@ a {
 
 p {
   color: white;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   font-size: 1.8rem;
+}
+
+p img {
+  margin:auto;
+display: block;
+}
+
+ul, ol {
+  margin-bottom: 20px;
+  font-weight: 600;
+ a {
+  font-weight: 600;
+ }
 }
 
 .text-center {
@@ -107,3 +120,7 @@ hr {
   background: $rouge;
   margin: 40px 0 40px 0;
 }
+
+// .tmpl-page{
+//   margin:20px 0;
+// }

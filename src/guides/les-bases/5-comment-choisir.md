@@ -3,10 +3,9 @@ layout: layouts/page.njk
 tags:
   - nav
 navtitle: Guides
-title: Guide Comment choisir
+title: Comment choisir?
+img: bg-page.jpg
 ---
-
-# Comment choisir?
 
 ### Le Marketing
 

@@ -3,10 +3,9 @@ layout: layouts/page.njk
 tags:
   - nav
 navtitle: Guides
-title: Guide Switchs
+title: Les Switchs
+img: bg-page.jpg
 ---
-
-# Les Switchs
 
 ### Tactile ou linéaire, silencieux ou clicky
 

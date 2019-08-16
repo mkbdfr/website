@@ -3,10 +3,9 @@ layout: layouts/page.njk
 tags:
   - nav
 navtitle: Guides
-title: Guide Généralité
+title: Généralités
+img: bg-page.jpg
 ---
-
-# Généralité
 
 Revenus à la mode ces dernières années, notamment à l'aide d'un discours marketing adressé aux joueurs, les claviers mécaniques sont loin d'être une nouveauté : si le buckling spring d'IBM fait figure d'ancêtre (Model F en 1981, Model M en 1984), Cherry produit les très populaires switchs MX depuis 1983. En dépit de leurs qualités, le prix de ces claviers a conduit à leur remplacement par les claviers à membranes et dômes caoutchouc bien moins chers — une régression sur bien des plans, comme si l'on remplaçait aujourd'hui nos souris optiques par leurs ancêtres à boule.
 

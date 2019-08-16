@@ -1,41 +1,33 @@
 .jumbotron {
   width: 100%;
-  height: 500px;
-  margin-bottom: 60px;
+  height: 80vh;
   color: white;
   position: relative;
+  overflow: hidden;
 }
 
 .jumbotron__image {
-  position: absolute;
   z-index: -1;
   width: 100%;
   height: 100%;
-  background: -webkit-linear-gradient(
-      300deg,
-      rgba(255, 209, 74, 0.9) 15%,
-      rgba(254, 139, 196, 0.9) 40%,
-      rgba(108, 132, 254, 0.9) 94%
-    ),
-    url('img/bg.jpg') no-repeat;
-  background: -o-linear-gradient(
-      300deg,
-      rgba(255, 209, 74, 0.9) 15%,
-      rgba(254, 139, 196, 0.9) 40%,
-      rgba(108, 132, 254, 0.9) 94%
-    ),
-    url('img/bg.jpg') no-repeat;
-  background: linear-gradient(
-      150deg,
-      rgba(255, 209, 74, 0.9) 15%,
-      rgba(254, 139, 196, 0.9) 40%,
-      rgba(108, 132, 254, 0.9) 94%
-    ),
-    url('img/bg.jpg') no-repeat;
-  background-size: cover;
-  -webkit-transform-origin: 50% 100%;
-  -ms-transform-origin: 50% 100%;
-  transform-origin: 50% 100%;
+  position: absolute;
+
+  img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    filter:grayscale(1);
+    z-index: -1;
+  }
+}
+
+.jumbotron__image:before {
+  background:#182B4C;
+  width:100%;
+  height:100%;
+  content: " ";
+  position:absolute;
+  opacity: 0.7;
 }
 
 .jumbotron__content {
@@ -46,6 +38,7 @@
   align-items: center;
   justify-content: center;
   height: 100%;
+  padding:10px;
 }
 
 .jumbotron__title {
@@ -65,42 +58,118 @@
 }
 
 .jumbotron__bouton {
-  border: 1px solid white;
-  border-radius: 3px;
-  background: transparent;
-  height: 45px;
-  margin: 2px;
-  border-width: 3px 7px 10px;
-  border-left-width: 7px;
-  border-style: solid;
-  border-radius: 4px;
-  float: left;
-  width: auto;
-  padding-left: 5px;
-  padding-right: 5px;
-  color: #333;
-  background: #fff;
-  border-color: #d8d7d7 #bdbdbd #727272;
-  box-shadow: 1px 3px 3px #333;
+  border: 3px solid $rouge;
+  border-radius: 7px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+  color: $rouge;
+  transition: 0.35s;
+  text-transform: uppercase;
+  font-weight: 600;
+
   &:hover {
-    cursor: pointer;
+    background: $rouge;
+    color: white;
+    border: 3px solid white;
     text-decoration: none;
-    color: #333;
-  }
-  &:active {
-    transform: scale(0.95, 0.95);
   }
 }
 
-.keycap {
-  width: inherit;
-  height: inherit;
-  font-size: 15px;
-  line-height: 45px;
-  text-indent: 7px;
-  background: #333;
-  background: linear-gradient(to right, rgb(250, 249, 249), #d8d7d7, #fff);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  border-radius: 4px;
+.dual-panel {
+  width: 100%;
+  height: 50vh;
+  display: flex;
   position: relative;
+  overflow: hidden;
+
+  @media (max-width:700px) {
+    flex-flow: column nowrap;
+  }
+  .image {
+    position: relative;
+    width: 50vw;
+    height: 100%;
+    transition: 0.25s;
+    z-index: 1;
+    @media (max-width:700px) {
+      display:none;
+    }
+    img, picture {
+      object-fit: cover;
+      width: 100%;
+      height: 100%;
+      filter: grayscale(1);
+      z-index: -1;
+      
+    }
+  }
+
+  .image:before {
+    background: white;
+    width: 100%;
+    content: " ";
+    height: 100%;
+    position: absolute;
+    opacity: 0.5;
+  }
+
+  .image:hover {
+    transform: scale(1.2);
+    transition: 0.25s;
+    opacity: 1;
+    img, picture {
+      filter: grayscale(0);
+    }
+  }
+
+  .texte {
+    width: 50vw;
+    color: white;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    padding:10px 0;
+    z-index: 2;
+    height: 100%;
+    ul,ol {
+      padding:0;
+      font-weight: 600;
+    }
+
+    a {
+      font-weight: 600;
+    }
+    
+
+    h2 {
+      color:white;
+    }
+
+    @media (max-width:700px) {
+      width: auto;
+      padding:30px;
+
+      ul,ol {
+        padding:0 0 0 20px;
+      }
+    }
+  }
+}
+
+.dual-panel:nth-child(even) .texte {
+  background: $rouge;
+  a:hover {
+    color:$bleu;
+  }
+}
+
+.dual-panel:nth-child(odd) .texte {
+  background: $bleu;
+}
+
+
+.social-container {
+  margin-top:30px;
 }
