@@ -4,7 +4,7 @@ tags:
   - nav
 navtitle: Meetup
 title: Meetup
-img: meetup-medium-vert.jpg
+img: meetup-banner.jpg
 ---
 
 ## Où ?
