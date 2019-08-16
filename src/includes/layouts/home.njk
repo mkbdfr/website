@@ -13,18 +13,16 @@ title: Accueil
 
 <body>
 
- 
+
     {% include 'layouts/partials/_nav.njk' %}
 
   <main{% if templateClass %} class="{{ templateClass }}" {% endif %}>
     <div class="jumbotron">
       <div class="jumbotron__image">
         <picture>
-          <source media="(min-width: 36em)"
-            srcset="img/meetup-large.jpg  1024w, img/meetup-medium.jpg 640w, img/meetup-small.jpg  320w"
+          <img src="img/meetup-large.jpg" media="(min-width: 36em)"
+            srcset="img/meetup-large.jpg  640w, img/meetup-medium.jpg 480w, img/meetup-small.jpg  320w, img/meetup-medium-vert.jpg 2x,  img/meetup-small-vert.jpg 1x"
             sizes="33.3vw" />
-          <source srcset="img/meetup-medium-vert.jpg 2x,  img/meetup-small-vert.jpg 1x" />
-          <img src="img/meetuplarge.jpg" alt="A rad wolf" />
         </picture>
       </div>
       <div class="jumbotron__content">
@@ -33,7 +31,6 @@ title: Accueil
           On se voit et on se touche les touches.
         </p>
         <a href="{{ '/meetup' | url }}" class="jumbotron__bouton">
-          <!-- <div class="keycap">En savoir plus</div> -->
           En savoir plus </a>
       </div>
     </div>
@@ -43,35 +40,31 @@ title: Accueil
       </div>
       <div class="texte">
           <h2>Guides</h2>
-       
-  <ol>
-    <li>
-      <a href="{{ '/guides/les-bases/1-generalites' | url }}">Generalites</a>
-    </li>
-    <li>
-      <a href="{{ '/guides/les-bases/2-switchs' | url }}">Les switchs</a>
-    </li>
-    <li>
-      <a href="{{ '/guides/les-bases/3-formats' | url }}">Les formats</a>
-    </li>
-    <li>
-      <a href="{{ '/guides/les-bases/4-layouts' | url }}">Disposition des touches</a>
-    </li>
-    <li>
-      <a href="{{ '/guides/les-bases/5-comment-choisir' | url }}">Comment choisir ?</a>
-    </li>
-    <li>
-      <a href="{{ '/guides/les-bases/6-anatomie' | url }}">Anatomie d'un clavier</a>
-    </li>
-  </ol>
-
+          <ol>
+            <li>
+              <a href="{{ '/guides/les-bases/1-generalites' | url }}">Generalites</a>
+            </li>
+            <li>
+              <a href="{{ '/guides/les-bases/2-switchs' | url }}">Les switchs</a>
+            </li>
+            <li>
+              <a href="{{ '/guides/les-bases/3-formats' | url }}">Les formats</a>
+            </li>
+            <li>
+              <a href="{{ '/guides/les-bases/4-layouts' | url }}">Disposition des touches</a>
+            </li>
+            <li>
+              <a href="{{ '/guides/les-bases/5-comment-choisir' | url }}">Comment choisir ?</a>
+            </li>
+            <li>
+              <a href="{{ '/guides/les-bases/6-anatomie' | url }}">Anatomie d'un clavier</a>
+            </li>
+          </ol>
       </div>
     </div>
     <div class="dual-panel">
-
       <div class="texte">
           <h2>Pages Jaunes</h2>
-
         <ul>
           <li>
             <a href="{{ '/pages-jaunes' | url }}">Communautés anglophones</a>
@@ -85,14 +78,12 @@ title: Accueil
           <li>
             <a href="{{ '/pages-jaunes' | url }}">Etc...</a>
           </li>
-
         </ul>
       </div>
       <div class="image">
         <img src="img/bg2.jpg" alt="">
       </div>
     </div>
-
     </main>
     {% include 'layouts/partials/_footer.njk' %}
 </body>
