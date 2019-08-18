@@ -7,7 +7,6 @@ title: Anatomie du clavier
 img: bg-page.jpg
 ---
 
-
 La plupart des claviers sont construits de la façon suivante : les switches, chacun surmonté d'une touche (keycap), sont montés sur une plaque (plate en anglais), la plupart du temps en acier, plus rarement en aluminium ou en plastique, dans laquelle des découpes sont effectuées pour y insérer les switchs. L'ensemble est placé sur un PCB (circuit imprimé) sur lequel se trouve l'électronique nécessaire à son fonctionnement (diodes, résistances, LEDs, microcontrôleur et sortie USB). L'ensemble est ensuite placé dans un châssis, la plupart du temps en plastique (ABS, parfois recouvert d'un revêtement "peau de pêche" ), parfois en aluminium ou acrylique dans le cas de séries spéciales.
 
 La construction avec plaque (plate-mounted switches) confère une plus grande rigidité au clavier, ainsi qu'une plus grande stabilité du fait du poids qu'elle ajoute. Elle impose de dessouder les switchs du PCB en cas de modifications sur ceux-ci (à moins qu'elle ne prévoie des découpes pour une extraction facilitée des switchs, on parle alors de notched plate) et tend à accentuer le bruit produit par la frappe (la construction du châssis peut également participer à cet effet de résonance). La construction sans plaque (PCB-mounted switches), moins rigide, favorise une sensation de frappe plus souple et permet d'ouvrir les switchs sans les dessouder. La très grande majorité des claviers mécaniques utilisent une plaque, les claviers avec PCB seul sont bien moins courants.

@@ -5,7 +5,6 @@ tags:
 navtitle: Guides
 title: Les Layouts
 img: bg-page.jpg
-
 ---
 
 Il y a deux façons de décrire la disposition (le layout) des touches d'un clavier : la disposition physique et la disposition logique. Ces deux notions sont complémentaires.

@@ -6,6 +6,7 @@ navtitle: Guides
 title: Guides
 img: bg-page.jpg
 ---
+
   <ol>
     <li>
       <a href="{{ '/guides/les-bases/1-generalites' | url }}">Generalites</a>

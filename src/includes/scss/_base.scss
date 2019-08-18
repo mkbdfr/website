@@ -9,10 +9,10 @@ body {
   font-size: 1.8rem;
   display: flex;
   flex-flow: column nowrap;
-  font-family:  'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   min-height: 100vh;
-  width:100%;
-  margin:0; 
+  width: 100%;
+  margin: 0;
 }
 
 main {
@@ -29,7 +29,7 @@ section {
     text-align: center;
     font-weight: 900;
     font-size: 2rem;
-    color:#FFF;
+    color: #fff;
   }
 
   img {
@@ -49,7 +49,7 @@ h1,
 h2,
 h3 {
   text-transform: uppercase;
-  color:$bleu;
+  color: $bleu;
   text-align: center;
   font-family: 'fv-almelo-regular';
 }
@@ -58,9 +58,9 @@ h1 {
   font-weight: 900;
   font-size: 6.2rem;
   line-height: 1;
-  margin-top:40px;
+  margin-top: 40px;
 
-  margin-bottom:40px;
+  margin-bottom: 40px;
 }
 
 h2 {
@@ -78,7 +78,10 @@ h3 {
   margin-bottom: 20px;
 }
 
-a, p, ol, ul {
+a,
+p,
+ol,
+ul {
   font-family: 'Roboto';
   font-weight: 200;
 }
@@ -87,7 +90,7 @@ a {
   color: white;
   text-decoration: underline;
   &:hover {
-    color:$rouge;
+    color: $rouge;
   }
 }
 
@@ -98,16 +101,17 @@ p {
 }
 
 p img {
-  margin:auto;
-display: block;
+  margin: auto;
+  display: block;
 }
 
-ul, ol {
+ul,
+ol {
   margin-bottom: 20px;
   font-weight: 600;
- a {
-  font-weight: 600;
- }
+  a {
+    font-weight: 600;
+  }
 }
 
 .text-center {
@@ -115,8 +119,8 @@ ul, ol {
 }
 
 hr {
-  height:4px;
-  color:$rouge;
+  height: 4px;
+  color: $rouge;
   background: $rouge;
   margin: 40px 0 40px 0;
 }

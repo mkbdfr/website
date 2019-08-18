@@ -16,17 +16,17 @@
     object-fit: cover;
     width: 100%;
     height: 100%;
-    filter:grayscale(1);
+    filter: grayscale(1);
     z-index: -1;
   }
 }
 
 .jumbotron__image:before {
-  background:#182B4C;
-  width:100%;
-  height:100%;
-  content: " ";
-  position:absolute;
+  background: #182b4c;
+  width: 100%;
+  height: 100%;
+  content: ' ';
+  position: absolute;
   opacity: 0.7;
 }
 
@@ -38,7 +38,7 @@
   align-items: center;
   justify-content: center;
   height: 100%;
-  padding:10px;
+  padding: 10px;
 }
 
 .jumbotron__title {
@@ -83,7 +83,7 @@
   position: relative;
   overflow: hidden;
 
-  @media (max-width:700px) {
+  @media (max-width: 700px) {
     flex-flow: column nowrap;
     height: initial;
   }
@@ -93,23 +93,23 @@
     height: 100%;
     transition: 0.25s;
     z-index: 1;
-    @media (max-width:700px) {
-      display:none;
+    @media (max-width: 700px) {
+      display: none;
     }
-    img, picture {
+    img,
+    picture {
       object-fit: cover;
       width: 100%;
       height: 100%;
       filter: grayscale(1);
       z-index: -1;
-
     }
   }
 
   .image:before {
     background: white;
     width: 100%;
-    content: " ";
+    content: ' ';
     height: 100%;
     position: absolute;
     opacity: 0.5;
@@ -119,7 +119,8 @@
     transform: scale(1.2);
     transition: 0.25s;
     opacity: 1;
-    img, picture {
+    img,
+    picture {
       filter: grayscale(0);
     }
   }
@@ -131,11 +132,12 @@
     flex-flow: column;
     align-items: center;
     justify-content: center;
-    padding:10px 0;
+    padding: 10px 0;
     z-index: 2;
     height: 100%;
-    ul,ol {
-      padding:0;
+    ul,
+    ol {
+      padding: 0;
       font-weight: 600;
     }
 
@@ -143,17 +145,17 @@
       font-weight: 600;
     }
 
-
     h2 {
-      color:white;
+      color: white;
     }
 
-    @media (max-width:700px) {
+    @media (max-width: 700px) {
       width: auto;
-      padding:30px;
+      padding: 30px;
 
-      ul,ol {
-        padding:0 0 0 20px;
+      ul,
+      ol {
+        padding: 0 0 0 20px;
       }
     }
   }
@@ -162,7 +164,7 @@
 .dual-panel:nth-child(even) .texte {
   background: $rouge;
   a:hover {
-    color:$bleu;
+    color: $bleu;
   }
 }
 
@@ -170,7 +172,6 @@
   background: $bleu;
 }
 
-
 .social-container {
-  margin-top:30px;
+  margin-top: 30px;
 }

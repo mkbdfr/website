@@ -6,6 +6,7 @@ navtitle: Meetup
 title: Meetup
 img: meetup-banner.jpg
 ---
+
 <style>
   body{
     background-color:white;
@@ -26,6 +27,7 @@ img: meetup-banner.jpg
     opacity: 1;
   }
 </style>
+
 ## Où ?
 
 Cette sixième édition du meetup se déroulera dans les locaux de Gandi [63-65 boulevard Masséna, Paris 13, M7 Porte d'Ivry/T3a Porte d'Ivry](https://goo.gl/maps/mJDh2vowtymbvQDA9/), de 16h à la fin de la soirée.
