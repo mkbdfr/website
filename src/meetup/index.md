@@ -6,7 +6,26 @@ navtitle: Meetup
 title: Meetup
 img: meetup-banner.jpg
 ---
-
+<style>
+  body{
+    background-color:white;
+  }
+  p{
+    color:black;
+  }
+  a{
+    color:black;
+  }
+  img.sponsor{
+    filter: grayscale(100%);
+    transition: filter 0.45s cubic-bezier(0.3, 0.4, 0.1, 1), opacity 0.45s cubic-bezier(0.3, 0.4, 0.1, 1);
+    opacity: 0.55;
+  }
+  img.sponsor:hover{
+    filter: grayscale(0%);
+    opacity: 1;
+  }
+</style>
 ## Où ?
 
 Cette sixième édition du meetup se déroulera dans les locaux de Gandi [63-65 boulevard Masséna, Paris 13, M7 Porte d'Ivry/T3a Porte d'Ivry](https://goo.gl/maps/mJDh2vowtymbvQDA9/), de 16h à la fin de la soirée.
@@ -35,9 +54,21 @@ Toutes les photos des précédents meetups sont [ici](https://www.meetup.com/Mec
 
 <div class="sponsors">
   <ul>
-    <li><a href=""><img src="/img/gandi.jpg" alt="sponsor gandi"></a></li>
-    <li><a href=""><img src="/img/gandi.jpg" alt="sponsor gandi"></a></li>
-    <li><a href=""><img src="/img/bg-page.jpg" alt="sponsor gandi"></a></li>
+    <li><a target="_blank" href="https://www.gandi.net/fr"><img class="sponsor" src="/img/sponsors/gandi.jpg" alt="sponsor gandi"></a></li>
+    <li><a target="_blank" href="https://www.cherry.fr/"><img class="sponsor" src="/img/sponsors/cherry.jpg" alt="sponsor gandi"></a></li>
+    <li><a target="_blank" href="https://www.gmk-electronic-design.de/en/"><img class="sponsor" src="/img/sponsors/gmk.jpg" alt="sponsor gandi"></a></li>
+    <li><a target="_blank" href="https://uniqey.net/en/"><img class="sponsor" src="/img/sponsors/uniquey.jpg" alt="sponsor gandi"></a></li>
+    <li><a target="_blank" href="https://www.keyboardco.com/"><img class="sponsor" src="/img/sponsors/keyboardcompany.jpg" alt="sponsor gandi"></a></li>
+    <li><a target="_blank" href="https://mykeyboard.eu/"><img class="sponsor" src="/img/sponsors/mykb.jpg" alt="sponsor gandi"></a></li>
+    <li><a target="_blank" href="https://candykeys.com/"><img class="sponsor" src="/img/sponsors/candykeys.jpg" alt="sponsor gandi"></a></li>
+    <li><a target="_blank" href="https://thekey.company/"><img class="sponsor" src="/img/sponsors/keydotco.jpg" alt="sponsor gandi"></a></li>
+    <li><a target="_blank" href="https://kono.store/"><img class="sponsor" src="/img/sponsors/kono.jpg" alt="sponsor gandi"></a></li>
+    <li><a target="_blank" href="https://rama.works/"><img class="sponsor" src="/img/sponsors/rama.jpg" alt="sponsor gandi"></a></li>
+    <li><a target="_blank" href="https://www.keyboardplates.com"><img class="sponsor" src="/img/sponsors/keyboardplates.jpg" alt="sponsor gandi"></a></li>
+    <li><a target="_blank" href="https://www.laserboost.com/"><img class="sponsor" src="/img/sponsors/laserboost.jpg" alt="sponsor gandi"></a></li>
+    <li><a target="_blank" href="https://www.qlavier.com/"><img class="sponsor" src="/img/sponsors/qlavier.jpg" alt="sponsor gandi"></a></li>
+    <li><a target="_blank" href="https://artkeyuniverse.com/"><img class="sponsor" src="/img/sponsors/artkey.jpg" alt="sponsor gandi"></a></li>
+    <li><a target="_blank" href="https://www.jellykey.com/"><img class="sponsor" src="/img/sponsors/jellykey.jpg" alt="sponsor gandi"></a></li>
   </ul>
 </div>
 
