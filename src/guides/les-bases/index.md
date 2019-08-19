@@ -3,7 +3,7 @@ layout: layouts/page.njk
 tags:
   - nav
 navtitle: Guides
-title: Guides
+title: Les bases
 img: bg-page.jpg
 ---
 

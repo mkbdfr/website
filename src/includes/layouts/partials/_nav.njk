@@ -1,21 +1,18 @@
- <header>
-<nav>
-  <ul class="nav">
-    <li class="nav-item{% if nav.url == page.url %} nav-item-active{% endif %}">
-      <a href="{{ '/' | url }}">Accueil</a>
-    </li>
-    <li class="nav-item{% if nav.url == page.url %} nav-item-active{% endif %}">
-      <a href="{{ '/guides/les-bases' | url }}">Guides</a>
-    </li>
-    {# <li class="nav-item{% if nav.url == page.url %} nav-item-active{% endif %}">
-      <a href="{{ '/keyboards' | url }}">Keyboards</a>
-    </li> #}
-    <li class="nav-item{% if nav.url == page.url %} nav-item-active{% endif %}">
-      <a href="{{ '/pages-jaunes' | url }}">Pages Jaunes</a>
-    </li>
-    <li class="nav-item{% if nav.url == page.url %} nav-item-active{% endif %}">
-      <a href="{{ '/meetup' | url }}">Meetup</a>
-    </li>
-  </ul>
-</nav>
- </header>
+<header>
+  <nav>
+    <ul class="nav">
+      <li class="nav-item{% if nav.url == page.url %} nav-item-active{% endif %}">
+        <a href="{{ '/' | url }}">Accueil</a>
+      </li>
+      <li class="nav-item{% if nav.url == page.url %} nav-item-active{% endif %}">
+        <a href="{{ '/guides' | url }}">Guides</a>
+      </li>
+      <li class="nav-item{% if nav.url == page.url %} nav-item-active{% endif %}">
+        <a href="{{ '/pages-jaunes' | url }}">Pages Jaunes</a>
+      </li>
+      <li class="nav-item{% if nav.url == page.url %} nav-item-active{% endif %}">
+        <a href="{{ '/meetup' | url }}">Meetup</a>
+      </li>
+    </ul>
+  </nav>
+</header>

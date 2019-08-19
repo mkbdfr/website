@@ -48,7 +48,9 @@ module.exports = function(eleventyConfig) {
     const path = page.url.split('/').filter(d => {
       return d;
     });
-    console.log(path);
+    if (path.length <= 1) {
+      return '';
+    }
     const last = path.pop();
     const breadcrumb = [];
     const breadcrumbPath = ['/'];
