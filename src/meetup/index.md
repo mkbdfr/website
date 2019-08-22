@@ -56,21 +56,22 @@ Toutes les photos des précédents meetups sont [ici](https://www.meetup.com/Mec
 
 <div class="sponsors">
   <ul>
-    <li><a target="_blank" href="https://www.gandi.net/fr"><img class="sponsor" src="/img/sponsors/gandi.jpg" alt="sponsor gandi"></a></li>
-    <li><a target="_blank" href="https://www.cherry.fr/"><img class="sponsor" src="/img/sponsors/cherry.jpg" alt="sponsor gandi"></a></li>
-    <li><a target="_blank" href="https://www.gmk-electronic-design.de/en/"><img class="sponsor" src="/img/sponsors/gmk.jpg" alt="sponsor gandi"></a></li>
-    <li><a target="_blank" href="https://uniqey.net/en/"><img class="sponsor" src="/img/sponsors/uniquey.jpg" alt="sponsor gandi"></a></li>
-    <li><a target="_blank" href="https://www.keyboardco.com/"><img class="sponsor" src="/img/sponsors/keyboardcompany.jpg" alt="sponsor gandi"></a></li>
-    <li><a target="_blank" href="https://mykeyboard.eu/"><img class="sponsor" src="/img/sponsors/mykb.jpg" alt="sponsor gandi"></a></li>
-    <li><a target="_blank" href="https://candykeys.com/"><img class="sponsor" src="/img/sponsors/candykeys.jpg" alt="sponsor gandi"></a></li>
-    <li><a target="_blank" href="https://thekey.company/"><img class="sponsor" src="/img/sponsors/keydotco.jpg" alt="sponsor gandi"></a></li>
-    <li><a target="_blank" href="https://kono.store/"><img class="sponsor" src="/img/sponsors/kono.jpg" alt="sponsor gandi"></a></li>
-    <li><a target="_blank" href="https://rama.works/"><img class="sponsor" src="/img/sponsors/rama.jpg" alt="sponsor gandi"></a></li>
-    <li><a target="_blank" href="https://www.keyboardplates.com"><img class="sponsor" src="/img/sponsors/keyboardplates.jpg" alt="sponsor gandi"></a></li>
-    <li><a target="_blank" href="https://www.laserboost.com/"><img class="sponsor" src="/img/sponsors/laserboost.jpg" alt="sponsor gandi"></a></li>
-    <li><a target="_blank" href="https://www.qlavier.com/"><img class="sponsor" src="/img/sponsors/qlavier.jpg" alt="sponsor gandi"></a></li>
-    <li><a target="_blank" href="https://artkeyuniverse.com/"><img class="sponsor" src="/img/sponsors/artkey.jpg" alt="sponsor gandi"></a></li>
-    <li><a target="_blank" href="https://www.jellykey.com/"><img class="sponsor" src="/img/sponsors/jellykey.jpg" alt="sponsor gandi"></a></li>
+    <li><a target="_blank" href="https://www.gandi.net/fr"><img class="sponsor" src="/img/sponsors/gandi.jpg" alt="Gandi"></a></li>
+    <li><a target="_blank" href="https://www.cherry.fr/"><img class="sponsor" src="/img/sponsors/cherry.jpg" alt="Cherry"></a></li>
+    <li><a target="_blank" href="https://www.gmk-electronic-design.de/en/"><img class="sponsor" src="/img/sponsors/gmk.jpg" alt="GMK Eletrocnic Design"></a></li>
+    <li><a target="_blank" href="https://uniqey.net/en/"><img class="sponsor" src="/img/sponsors/uniquey.jpg" alt="Uniqey"></a></li>
+    <li><a target="_blank" href="https://www.keyboardco.com/"><img class="sponsor" src="/img/sponsors/keyboardcompany.jpg" alt="The keyboard Company"></a></li>
+    <li><a target="_blank" href="https://mykeyboard.eu/"><img class="sponsor" src="/img/sponsors/mykb.jpg" alt="My Keyboards"></a></li>
+    <li><a target="_blank" href="https://candykeys.com/"><img class="sponsor" src="/img/sponsors/candykeys.jpg" alt="Candy Keys"></a></li>
+    <li><a target="_blank" href="https://thekey.company/"><img class="sponsor" src="/img/sponsors/keydotco.jpg" alt="The Key Company"></a></li>
+    <li><a target="_blank" href="https://kono.store/"><img class="sponsor" src="/img/sponsors/kono.jpg" alt="Kono"></a></li>
+    <li><a target="_blank" href="https://rama.works/"><img class="sponsor" src="/img/sponsors/rama.jpg" alt="Rama Works"></a></li>
+    <li><a target="_blank" href="https://www.keyboardplates.com"><img class="sponsor" src="/img/sponsors/keyboardplates.jpg" alt="Keyboard Plates"></a></li>
+    <li><a target="_blank" href="https://www.laserboost.com/"><img class="sponsor" src="/img/sponsors/laserboost.jpg" alt="Laser Boost"></a></li>
+    <li><a target="_blank" href="https://www.qlavier.com/"><img class="sponsor" src="/img/sponsors/qlavier.jpg" alt="Qlavier"></a></li>
+    <li><a target="_blank" href="https://artkeyuniverse.com/"><img class="sponsor" src="/img/sponsors/artkey.jpg" alt="Art Key Universe"></a></li>
+    <li><a target="_blank" href="https://www.jellykey.com/"><img class="sponsor" src="/img/sponsors/jellykey.jpg" alt="JellyKey"></a></li>
+    <li><a target="_blank" href="https://www.instagram.com/wildstory.caps/"><img class="sponsor" src="/img/sponsors/wildstorycaps.jpg" alt="wildstory caps"></a></li>
   </ul>
 </div>
 
