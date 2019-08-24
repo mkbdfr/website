@@ -79,7 +79,7 @@ Toutes les photos des précédents meetups sont [ici](https://www.meetup.com/Mec
 - Numberly - cartons, badges
 - Toi ou ton entreprise ? Contacte-moi !
 
-Tu peux rejoindre notre communauté sur ce discord: [https://discord.gg/S86cxY](https://discord.gg/S86cxY)
+Tu peux rejoindre notre communauté sur ce discord: [https://discord.gg/dtPuEBr](https://discord.gg/dtPuEBr)
 
 Merci !
 La communauté francophone de claviers mécaniques
