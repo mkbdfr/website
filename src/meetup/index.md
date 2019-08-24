@@ -72,6 +72,7 @@ Toutes les photos des précédents meetups sont [ici](https://www.meetup.com/Mec
     <li><a target="_blank" href="https://artkeyuniverse.com/"><img class="sponsor" src="/img/sponsors/artkey.jpg" alt="Art Key Universe"></a></li>
     <li><a target="_blank" href="https://www.jellykey.com/"><img class="sponsor" src="/img/sponsors/jellykey.jpg" alt="JellyKey"></a></li>
     <li><a target="_blank" href="https://www.instagram.com/wildstory.caps/"><img class="sponsor" src="/img/sponsors/wildstorycaps.jpg" alt="wildstory caps"></a></li>
+    <li><a target="_blank" href="https://numberly.com/fr/"><img class="sponsor" src="/img/sponsors/numberly.jpg" alt="numberly"></a></li>
   </ul>
 </div>
 
