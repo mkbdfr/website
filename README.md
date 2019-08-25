@@ -1,6 +1,6 @@
 # _[claviers-mecaniques.fr](https://claviers-mecaniques.fr)_
 
-[![Discord](https://img.shields.io/discord/364402715545174027.svg?label=Discord&logo=Discord&logoColor=white)](https://discord.gg/yrUTU3m) [![Build Status](https://travis-ci.org/claviers/website.svg?branch=master)](https://travis-ci.org/claviers/website) ![Code Style](https://img.shields.io/badge/code%20style-prettier-success.svg)
+[![Discord](https://img.shields.io/discord/364402715545174027.svg?label=Discord&logo=Discord&logoColor=white)](https://discord.gg/yrUTU3m) [![Build Status](https://travis-ci.org/claviers/website.svg?branch=master)](https://travis-ci.org/claviers/website) ![Code Style](https://img.shields.io/badge/code%20style-prettier-success.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/e3b278f2-0287-49c9-8594-75c012ccc12e/deploy-status)](https://app.netlify.com/sites/quirky-sammet-4e449c/deploys)
 
 
 ## Requirements
