@@ -19,12 +19,13 @@ img: meetup-banner.jpg
   }
   img.sponsor{
     filter: grayscale(100%);
-    transition: filter 0.45s cubic-bezier(0.3, 0.4, 0.1, 1), opacity 0.45s cubic-bezier(0.3, 0.4, 0.1, 1);
+    transition: all .2s ease-in-out;
     opacity: 0.55;
   }
   img.sponsor:hover{
     filter: grayscale(0%);
     opacity: 1;
+    transform: scale(1.1);
   }
 </style>
 
@@ -66,12 +67,15 @@ Toutes les photos des précédents meetups sont [ici](https://www.meetup.com/Mec
     <li><a target="_blank" href="https://thekey.company/"><img class="sponsor" src="/img/sponsors/keydotco.jpg" alt="The Key Company"></a></li>
     <li><a target="_blank" href="https://kono.store/"><img class="sponsor" src="/img/sponsors/kono.jpg" alt="Kono"></a></li>
     <li><a target="_blank" href="https://rama.works/"><img class="sponsor" src="/img/sponsors/rama.jpg" alt="Rama Works"></a></li>
+    <li><a target="_blank" href="https://gamers-industry.com/categorie-produit/peripheriques-pc/clavier-mecanique/"><img class="sponsor" src="/img/sponsors/gamersIndustry.jpg" alt="Gamers Industry"></a></li>
+    <li><a target="_blank" href="https://novelkeys.xyz/"><img class="sponsor" src="/img/sponsors/nk_compact.jpg" alt="NovelKeys"></a></li>
     <li><a target="_blank" href="https://www.keyboardplates.com"><img class="sponsor" src="/img/sponsors/keyboardplates.jpg" alt="Keyboard Plates"></a></li>
     <li><a target="_blank" href="https://www.laserboost.com/"><img class="sponsor" src="/img/sponsors/laserboost.jpg" alt="Laser Boost"></a></li>
     <li><a target="_blank" href="https://www.qlavier.com/"><img class="sponsor" src="/img/sponsors/qlavier.jpg" alt="Qlavier"></a></li>
     <li><a target="_blank" href="https://artkeyuniverse.com/"><img class="sponsor" src="/img/sponsors/artkey.jpg" alt="Art Key Universe"></a></li>
     <li><a target="_blank" href="https://www.jellykey.com/"><img class="sponsor" src="/img/sponsors/jellykey.jpg" alt="JellyKey"></a></li>
     <li><a target="_blank" href="https://www.instagram.com/wildstory.caps/"><img class="sponsor" src="/img/sponsors/wildstorycaps.jpg" alt="wildstory caps"></a></li>
+    <li><a target="_blank" href="https://www.instagram.com/ritualmaster"><img class="sponsor" src="/img/sponsors/ritualMaster.jpg" alt="ritual master"></a></li>
     <li><a target="_blank" href="https://numberly.com/fr/"><img class="sponsor" src="/img/sponsors/numberly.jpg" alt="numberly"></a></li>
   </ul>
 </div>
