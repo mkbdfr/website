@@ -32,6 +32,7 @@ img: bg-page.jpg
 ## Vendeurs de claviers et pièces
 
 - <span class="flag-icon flag-icon-fr"></span> [https://www.ldlc.com/informatique/peripherique-pc/clavier/c4606/+fc1431-1.html](https://www.ldlc.com/informatique/peripherique-pc/clavier/c4606/+fc1431-1.html)
+- <span class="flag-icon flag-icon-fr"></span> [https://leclavier.shop/](https://leclavier.shop/)
 - <span class="flag-icon flag-icon-be"></span> [https://mykeyboard.eu/](https://mykeyboard.eu/)
 - <span class="flag-icon flag-icon-be"></span> [https://www.qlavier.com/](https://www.qlavier.com/)
 - <span class="flag-icon flag-icon-gb"></span> [https://www.keyboardco.com/](https://www.keyboardco.com/)
