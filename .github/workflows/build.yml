@@ -1,0 +1,41 @@
+name: Website build
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - id: nodeversion
+        run: echo ::set-output name=NODE::$(cat .nvmrc)
+      - name: restore Cache
+        uses: actions/cache@master
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-${{ hashFiles('**/package-lock.json') }}
+      - name: Use Node.js ${{steps.nodeversion.outputs.NODE}}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ steps.nodeversion.outputs.NODE }}
+      - name: install
+        run: |
+          npm i
+      - name: Lint
+        run: |
+          npm run chk:data
+          npm run prettier
+          npm run build
+          echo claviers-mecaniques.org > dist/CNAME
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: ./dist
+          GIT_CONFIG_NAME : QMK Bot
+          GIT_CONFIG_EMAIL: hello@qmk.fm
+          SINGLE_COMMIT: true
