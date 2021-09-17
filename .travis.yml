@@ -22,6 +22,6 @@ deploy:
   local_dir: dist
   github_token: $GITHUB_TOKEN
   keep_history: false
-  fqdn: claviers-mecaniques.fr
+  fqdn: claviers-mecaniques.org
   on:
     branch: master
