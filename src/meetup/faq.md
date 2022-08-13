@@ -42,19 +42,19 @@ Bien sûr, aucune obligation d’apporter quoi que ce soit, le but étant aussi 
 
 ### Puis-je venir accompagné ?
 
-Les conditions d’entrée s’appliquent à tous les participants
+Les conditions d’entrée s’appliquent à tous les participants, votre accompagnant devra aussi avoir son billet
 
 ### J’ai pris un billet mais je ne peux pas venir ?
 
-Eventbrite vous permet d’annuler votre ticket, faites ça afin de libérer votre place au plus tôt, nous voudrions autant que possible éviter de priver des gens d’un moment fun. Si vous ne jouez pas le jeu nous nous réservons le droit de vous refuser à de futurs évènements.
+Eventbrite vous permet d’annuler votre ticket, faites ça afin de libérer votre place au plus tôt, nous voudrions autant que possible éviter de priver des gens d’un moment fun. Si vous ne jouez pas le jeu nous nous réservons le droit de vous refuser à de futurs évènements
 
 ### Achat/vente sur place ?
 
-Nope, non, no
+Les vendeurs présents sur place ne proposeront pas une partie de leur stock à l'achat, nous demandons aussi aux participants de ne pas vendre ou acheter leurs pièces
 
 ### Espace fumeur ?
 
-À l’extérieur
+À l’extérieur, vous pourrez rentrer à nouveau sans présenter votre billet grace au bracelet qui vous sera remis à votre arrivée
 
 ### Stockage des effets personnels ?
 

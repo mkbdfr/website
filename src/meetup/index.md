@@ -41,13 +41,12 @@ img: meetup-banner.jpg
 
 ## Où ?
 
-Cette septième édition du meetup se déroulera dans les locaux de Partoo [130 Rue du Mont-Cenis 75018 Paris](https://g.page/partoo?share/), de 14h à 20h.
+Cette septième édition du meetup se déroulera dans les locaux de Partoo [130 Rue du Mont-Cenis 75018 Paris](https://g.page/partoo?share/).
 
-Ceux qui ne peuvent pas venir à 14h peuvent venir plus tard, bien entendu.
 
 ## Quand ?
 
-Date choisie : **3 septembre 2022** !
+Date choisie : **3 septembre 2022** à 14h (vous pouvez arriver plus tard nous acceptons les arrivants jusqu'à 18) !
 
 ## Comment ?
 
@@ -64,6 +63,8 @@ Si tu veux faire un talk, une présentation, ou encore que tu as une idée pour 
 Toutes les photos du précédent meetup sont [ici](https://photos.app.goo.gl/UyUChgMvwW4EFJKG7).
 
 Toutes les réponses à tes questions sont dans la [FAQ](/meetup/faq)
+
+Le règlement complet se trouve [ici](/meetup/reglement)
 
 ## Nos sponsors
 
