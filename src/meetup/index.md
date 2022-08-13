@@ -111,7 +111,7 @@ La communauté francophone de claviers mécaniques
 
 Greetings everyone,
 
-The French Mechanical Keyboard community is very proud to announce the 7th edition of the French Mechanical Keyboards Meetup that will take place on the **Septemner 3rd in Paris**.
+The French Mechanical Keyboard community is very proud to announce the 7th edition of the French Mechanical Keyboards Meetup that will take place on the **September 3rd in Paris** starting from 2pm (local time).
 
 This year, the meetup will be hosted by our sponsor Partoo [130 Rue du Mont-Cenis 75018 Paris](https://g.page/partoo?share/).
 
