@@ -57,33 +57,33 @@ Toutes les photos des précédents meetups sont [ici](https://www.meetup.com/Mec
 
 <div class="sponsors">
   <ul>
-    <li><a target="_blank" href="https://www.gandi.net/fr"><img class="sponsor" src="/img/sponsors/gandi.jpg" alt="Gandi"></a></li>
-    <li><a target="_blank" href="https://www.cherry.fr/"><img class="sponsor" src="/img/sponsors/cherry.jpg" alt="Cherry"></a></li>
-    <li><a target="_blank" href="https://www.gmk-electronic-design.de/en/"><img class="sponsor" src="/img/sponsors/gmk.jpg" alt="GMK Eletrocnic Design"></a></li>
-    <li><a target="_blank" href="https://uniqey.net/en/"><img class="sponsor" src="/img/sponsors/uniquey.jpg" alt="Uniqey"></a></li>
-    <li><a target="_blank" href="https://www.keyboardco.com/"><img class="sponsor" src="/img/sponsors/keyboardcompany.jpg" alt="The keyboard Company"></a></li>
-    <li><a target="_blank" href="https://mykeyboard.eu/"><img class="sponsor" src="/img/sponsors/mykb.jpg" alt="My Keyboards"></a></li>
-    <li><a target="_blank" href="https://candykeys.com/"><img class="sponsor" src="/img/sponsors/candykeys.jpg" alt="Candy Keys"></a></li>
-    <li><a target="_blank" href="https://thekey.company/"><img class="sponsor" src="/img/sponsors/keydotco.jpg" alt="The Key Company"></a></li>
-    <li><a target="_blank" href="https://kono.store/"><img class="sponsor" src="/img/sponsors/kono.jpg" alt="Kono"></a></li>
-    <li><a target="_blank" href="https://rama.works/"><img class="sponsor" src="/img/sponsors/rama.jpg" alt="Rama Works"></a></li>
-    <li><a target="_blank" href="https://gamers-industry.com/categorie-produit/peripheriques-pc/clavier-mecanique/"><img class="sponsor" src="/img/sponsors/gamersIndustry.jpg" alt="Gamers Industry"></a></li>
-    <li><a target="_blank" href="https://novelkeys.xyz/"><img class="sponsor" src="/img/sponsors/nk_compact.jpg" alt="NovelKeys"></a></li>
-    <li><a target="_blank" href="https://www.keyboardplates.com"><img class="sponsor" src="/img/sponsors/keyboardplates.jpg" alt="Keyboard Plates"></a></li>
-    <li><a target="_blank" href="https://www.laserboost.com/"><img class="sponsor" src="/img/sponsors/laserboost.jpg" alt="Laser Boost"></a></li>
-    <li><a target="_blank" href="https://www.qlavier.com/"><img class="sponsor" src="/img/sponsors/qlavier.jpg" alt="Qlavier"></a></li>
-    <li><a target="_blank" href="https://artkeyuniverse.com/"><img class="sponsor" src="/img/sponsors/artkey.jpg" alt="Art Key Universe"></a></li>
-    <li><a target="_blank" href="https://www.jellykey.com/"><img class="sponsor" src="/img/sponsors/jellykey.jpg" alt="JellyKey"></a></li>
-    <li><a target="_blank" href="https://www.instagram.com/wildstory.caps/"><img class="sponsor" src="/img/sponsors/wildstorycaps.jpg" alt="wildstory caps"></a></li>
-    <li><a target="_blank" href="https://www.instagram.com/ritualmaster"><img class="sponsor" src="/img/sponsors/ritualMaster.jpg" alt="ritual master"></a></li>
-    <li><a target="_blank" href="https://numberly.com/fr/"><img class="sponsor" src="/img/sponsors/numberly.jpg" alt="numberly"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://www.gandi.net/fr"><img class="sponsor" src="/img/sponsors/gandi.jpg" alt="Gandi"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://www.cherry.fr/"><img class="sponsor" src="/img/sponsors/cherry.jpg" alt="Cherry"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://www.gmk-electronic-design.de/en/"><img class="sponsor" src="/img/sponsors/gmk.jpg" alt="GMK Eletrocnic Design"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://uniqey.net/en/"><img class="sponsor" src="/img/sponsors/uniquey.jpg" alt="Uniqey"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://www.keyboardco.com/"><img class="sponsor" src="/img/sponsors/keyboardcompany.jpg" alt="The keyboard Company"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://mykeyboard.eu/"><img class="sponsor" src="/img/sponsors/mykb.jpg" alt="My Keyboards"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://candykeys.com/"><img class="sponsor" src="/img/sponsors/candykeys.jpg" alt="Candy Keys"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://thekey.company/"><img class="sponsor" src="/img/sponsors/keydotco.jpg" alt="The Key Company"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://kono.store/"><img class="sponsor" src="/img/sponsors/kono.jpg" alt="Kono"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://rama.works/"><img class="sponsor" src="/img/sponsors/rama.jpg" alt="Rama Works"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://gamers-industry.com/categorie-produit/peripheriques-pc/clavier-mecanique/"><img class="sponsor" src="/img/sponsors/gamersIndustry.jpg" alt="Gamers Industry"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://novelkeys.xyz/"><img class="sponsor" src="/img/sponsors/nk_compact.jpg" alt="NovelKeys"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://www.keyboardplates.com"><img class="sponsor" src="/img/sponsors/keyboardplates.jpg" alt="Keyboard Plates"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://www.laserboost.com/"><img class="sponsor" src="/img/sponsors/laserboost.jpg" alt="Laser Boost"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://www.qlavier.com/"><img class="sponsor" src="/img/sponsors/qlavier.jpg" alt="Qlavier"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://artkeyuniverse.com/"><img class="sponsor" src="/img/sponsors/artkey.jpg" alt="Art Key Universe"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://www.jellykey.com/"><img class="sponsor" src="/img/sponsors/jellykey.jpg" alt="JellyKey"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://www.instagram.com/wildstory.caps/"><img class="sponsor" src="/img/sponsors/wildstorycaps.jpg" alt="wildstory caps"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://www.instagram.com/ritualmaster"><img class="sponsor" src="/img/sponsors/ritualMaster.jpg" alt="ritual master"></a></li>
+    <li><a target="_blank" rel="noreferrer noopener" href="https://numberly.com/fr/"><img class="sponsor" src="/img/sponsors/numberly.jpg" alt="numberly"></a></li>
   </ul>
 </div>
 
 - Numberly - cartons, badges
 - Toi ou ton entreprise ? Contacte-moi !
 
-Tu peux rejoindre notre communauté sur ce discord: [https://discord.gg/dtPuEBr](https://discord.gg/dtPuEBr)
+Tu peux rejoindre notre communauté sur ce discord: [{{site.socials.discord}}]({{site.socials.discord}})
 
 Merci !
 La communauté francophone de claviers mécaniques

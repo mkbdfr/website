@@ -1,4 +1,12 @@
 {
   "title": "Mechanical Keyboards - France",
-  "baseURL": "https://claviers-mecaniques.fr"
+  "baseURL": "https://claviers-mecaniques.fr",
+  "socials":{
+    "discord": "https://discord.gg/V2Ns3gD",
+    "twitter": "https://twitter.com/mkbdfr",
+    "facebook": "https://www.facebook.com/groups/291762867913654/",
+    "instagram": "https://www.instagram.com/mkbdfr/",
+    "eventbrite": "https://www.eventbrite.fr/o/mechanical-keyboard-france-42905127153",
+    "github": "https://github.com/mkbdfr"
+  }
 }
