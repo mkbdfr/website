@@ -87,6 +87,7 @@ Le règlement complet se trouve [ici](/meetup/reglement)
     <li><a target="_blank" href="https://www.atelier-rng.com/"><img class="sponsor" src="/img/sponsors/atelierrng.png" alt="Atelier RNG"></a></li>
     <li><a target="_blank" href="https://www.instagram.com/chinakeycapclones/ "><img class="sponsor" src="/img/sponsors/ckc.png" alt="CKC"></a></li>
     <li><a target="_blank" href="https://archetypemade.com/"><img class="sponsor" src="/img/sponsors/archetype.png" alt="Archetype"></a></li>
+    <li><a target="_blank" href="https://www.hhkeyboard.com/uk//"><img class="sponsor" src="/img/sponsors/hhkb.jpg" alt="HHKB EMEA"></a></li>
 
 <!--
     <li><a target="_blank" href="https://uniqey.net/en/"><img class="sponsor" src="/img/sponsors/uniquey.jpg" alt="Uniqey"></a></li>
