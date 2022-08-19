@@ -41,21 +41,20 @@ img: meetup-banner.jpg
 
 ## Où ?
 
-Cette septième édition du meetup se déroulera dans les locaux de Partoo [130 Rue du Mont-Cenis 75018 Paris](https://g.page/partoo?share/), de 14h à 20h.
+Cette septième édition du meetup se déroulera dans les locaux de Partoo [130 Rue du Mont-Cenis 75018 Paris](https://g.page/partoo?share/).
 
-Ceux qui ne peuvent pas venir à 14h peuvent venir plus tard, bien entendu.
 
 ## Quand ?
 
-Date choisie : **3 septembre 2022** !
+Date choisie : **3 septembre 2022** à 14h (vous pouvez arriver plus tard nous acceptons les arrivants jusqu'à 18h) !
 
 ## Comment ?
 
 Merci de bien [t'enregistrer](https://www.eventbrite.fr/e/billets-mechanical-keyboards-paris-7-395810127747) et de te munir d'une pièce d'identité pour ne pas qu'on te refuse l'entrée !
 
-Pour cet événements des afficionados de claviers de toutes les régions de France de Navarre (et même d'ailleurs) vont se retrouver pour montrer et discuter de claviers mécaniques. Pour ceux qui ne pourraient être présents l'événement sera retransmis sur un livestream (nous cherchons des volontaires pour s'en occuper).
+Pour cet événements des afficionados de claviers de toutes les régions de France, de Navarre (et même d'ailleurs) vont se retrouver pour montrer et discuter de claviers mécaniques. 
 
-Que tu sois un passionné confirmé ou un novice, le meetup est l'endroit parfait pour apprendre échanger ou simplement voir de nombreux claviers.
+Que tu sois un passionné confirmé ou un novice, le meetup est l'endroit parfait pour apprendre, échanger, voir ou tester de nombreux claviers.
 
 Des revendeurs, fabricants et créateurs seront présents et des activités seront organisées pendant le meetup telles que giveaway, une course dactylographique, etc !
 
@@ -64,6 +63,8 @@ Si tu veux faire un talk, une présentation, ou encore que tu as une idée pour 
 Toutes les photos du précédent meetup sont [ici](https://photos.app.goo.gl/UyUChgMvwW4EFJKG7).
 
 Toutes les réponses à tes questions sont dans la [FAQ](/meetup/faq)
+
+Le règlement complet se trouve [ici](/meetup/reglement)
 
 ## Nos sponsors
 
@@ -75,7 +76,6 @@ Toutes les réponses à tes questions sont dans la [FAQ](/meetup/faq)
     <li><a target="_blank" href="https://mykeyboard.eu/"><img class="sponsor" src="/img/sponsors/mykb.jpg" alt="My Keyboards"></a></li>
     <li><a target="_blank" href="https://candykeys.com/"><img class="sponsor" src="/img/sponsors/candykeys.jpg" alt="Candy Keys"></a></li>
     <li><a target="_blank" href="https://www.keyboardco.com/"><img class="sponsor" src="/img/sponsors/keyboardcompany.jpg" alt="The keyboard Company"></a></li>
-    <li><a target="_blank" href="https://thekey.company/"><img class="sponsor" src="/img/sponsors/keydotco.jpg" alt="The Key Company"></a></li>
     <li><a target="_blank" href="https://www.laserboost.com/"><img class="sponsor" src="/img/sponsors/laserboost.jpg" alt="Laser Boost"></a></li>
     <li><a target="_blank" href="https://www.qlavier.com/"><img class="sponsor" src="/img/sponsors/qlavier.jpg" alt="Qlavier"></a></li>
     <li><a target="_blank" href="https://thekeyplus.shop/"><img class="sponsor" src="/img/sponsors/thekeyplus.png" alt="TheKeyPlus"></a></li>
@@ -84,6 +84,10 @@ Toutes les réponses à tes questions sont dans la [FAQ](/meetup/faq)
     <li><a target="_blank" href="https://katkoil.com/"><img class="sponsor" src="/img/sponsors/katkoil.webp" alt="Kat Koil"></a></li>
     <li><a target="_blank" href="https://42keebs.eu/"><img class="sponsor" src="/img/sponsors/42keebs.png" alt="42Keebs"></a></li>
     <li><a target="_blank" href="https://treasuretypes.com/"><img class="sponsor" src="/img/sponsors/treasuretypes.png" alt="Treasure Types"></a></li>
+    <li><a target="_blank" href="https://www.atelier-rng.com/"><img class="sponsor" src="/img/sponsors/atelierrng.png" alt="Atelier RNG"></a></li>
+    <li><a target="_blank" href="https://www.instagram.com/chinakeycapclones/ "><img class="sponsor" src="/img/sponsors/ckc.png" alt="CKC"></a></li>
+    <li><a target="_blank" href="https://archetypemade.com/"><img class="sponsor" src="/img/sponsors/archetype.png" alt="Archetype"></a></li>
+    <li><a target="_blank" href="https://www.hhkeyboard.com/uk//"><img class="sponsor" src="/img/sponsors/hhkb.jpg" alt="HHKB EMEA"></a></li>
 
 <!--
     <li><a target="_blank" href="https://uniqey.net/en/"><img class="sponsor" src="/img/sponsors/uniquey.jpg" alt="Uniqey"></a></li>
@@ -105,25 +109,33 @@ Toutes les réponses à tes questions sont dans la [FAQ](/meetup/faq)
 Tu peux rejoindre notre communauté sur ce discord: [https://discord.gg/dtPuEBr](https://discord.gg/dtPuEBr)
 
 Merci !
-La communauté francophone de claviers mécaniques
+La communauté francophone de claviers mécaniques,
 
 ---
 
-Greetings everyone,
+## Where?
 
-The French Mechanical Keyboard community is very proud to announce the 7th edition of the French Mechanical Keyboards Meetup that will take place on the **Septemner 3rd in Paris**.
+This 7th edition will hosted by our sponsor Partoo [130 Rue du Mont-Cenis 75018 Paris](https://g.page/partoo?share/).
 
-This year, the meetup will be hosted by our sponsor Partoo [130 Rue du Mont-Cenis 75018 Paris](https://g.page/partoo?share/).
+## When?
 
-During this event, keyboard enthusiasts from all regions of France will gather to show and discuss everything mechanical keyboards. For those who can’t be there, we thought about you — the event will be casted via livestream.
+On the **September 3rd at 2pm (CET). Entries accepted until 6pm (CET).
+
+## How?
+
+Make sure to [register](https://www.eventbrite.fr/e/billets-mechanical-keyboards-paris-7-395810127747) and bring an ID.
+
+During this event, keyboard enthusiasts from all regions of France (and Europe) will gather to show and discuss everything mechanical keyboards.
 
 Whether you are an experienced community member or a newcomer, the meetup is a fantastic place to learn, exchange and see mechanical keyboards new and old.
 
 Community vendors and makers will be present and activities will take place during the meetup such as giveaways, a typerace tournament and more !
 
-Thanks to our sponsor Partoo the event is free and open (although for security reasons [registering beforehand](https://www.eventbrite.fr/e/billets-mechanical-keyboards-paris-7-395810127747) and showing an ID on entry is necessary). All ages are welcome.
+All the photos from the previous edition are [here](https://photos.app.goo.gl/UyUChgMvwW4EFJKG7).
 
-We hope to see you there.
+The anwers to all your questions in the [FAQ](/meetup/faq).
+
+The rules are [here](/meetup/reglement),
 
 Love,
 The French Mechanical Community
