@@ -58,11 +58,11 @@ Les vendeurs présents sur place ne proposeront pas une partie de leur stock à 
 
 ### Stockage des effets personnels ?
 
-Les organisateurs ne sont en aucun cas responsable de vos effets personnels, aucune solution de stockage des affaires n’est prévu
+Les organisateurs ne sont en aucun cas responsables de vos effets personnels, aucune solution de stockage des affaires n’est prévue
 
 ### Comment transmettre les infos de mon clavier exposé ?
 
-Des feuillets à remplir vous seront remis pour ça
+Des feuillets à remplir seront disponible sur place
 
 ### Je peux soulever un clavier ?
 
