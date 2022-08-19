@@ -1,4 +1,4 @@
-# Résumé du règlement 
+# Résumé du règlement
 
 1. Le meetup est réservé aux personnes inscrites, et l’accès est contrôlé.
 2. Vous êtes responsable de vos affaires et de votre matériel. Toute dégradation engage son auteur.
@@ -13,9 +13,7 @@
 11. La vente n’est pas autorisée pendant le meetup.
 12. Vous êtes tenu de lire le règlement complet disponible à l’accueil.
 
-
 # Règlement complet
-
 
 ## Accès
 
@@ -26,7 +24,6 @@ De ce fait l'accès au meetup est strictement réservé aux personnes s'étant i
 Les personnes inscrites doivent pouvoir justifier de leur identité sur le site eventbrite.com ainsi que pouvoir produire une pièce d’identité.
 
 Être sur la liste d’attente de donne pas accès au meetup. Être inscrit sur la liste principale ne vaut que pour soit même et ne permet pas d’amener des invités.
-
 
 ## Responsabilité
 
@@ -44,17 +41,15 @@ Il n’est pas permis de vendre du matériel ou clavier dans l’enceinte du mee
 
 ## Respect
 
-Certains claviers ou touches artisanales peuvent valoir plusieurs milliers d'euros. 
+Certains claviers ou touches artisanales peuvent valoir plusieurs milliers d'euros.
 
-* On ne touche pas un clavier sans avoir les mains propres
-* On ne soulève pas un clavier
-* On ne retire pas une touche d'un clavier
-* On ne mange ni boit dans la zone d’exposition des claviers
-* On respecte les autres participants, même si leur touche entrée n’a pas la bonne forme
+- On ne touche pas un clavier sans avoir les mains propres
+- On ne soulève pas un clavier
+- On ne retire pas une touche d'un clavier
+- On ne mange ni boit dans la zone d’exposition des claviers
+- On respecte les autres participants, même si leur touche entrée n’a pas la bonne forme
 
 Toute forme de harcèlement pourra mener à une exclusion définitive du meetup ainsi que des suivants.
-
-
 
 ## Lots
 
@@ -62,15 +57,13 @@ S’agissant des lots, la responsabilité des organisateurs est strictement limi
 
 Les organisateurs se dégagent de toute responsabilité relative à une éventuelle insatisfaction des gagnants concernant leurs lots. Faut pas pousser quand même.
 
-
-
 ## Droit à l’image
 
 Le participant donne l'autorisation aux organisateurs de capter par tout moyen son image et de l’utiliser notamment aux fins de :
-* Réalisation d’albums photos du meetup
-* Réalisation de films ou spots du meetup
-* Réalisation de visuels pour tout support
-* Publication en ligne des productions audiovisuelles
+
+- Réalisation d’albums photos du meetup
+- Réalisation de films ou spots du meetup
+- Réalisation de visuels pour tout support
+- Publication en ligne des productions audiovisuelles
 
 Le participant ne pourra s’opposer à la diffusion de représentations de son image ni à l’utilisation de son nom comme élément de légende. La présente autorisation est donnée pour dix ans. Elle est consentie gracieusement et ne donnera lieu à aucune rémunération. Conformément aux articles 39 et suivants de la loi du 6 janvier 1978 relatives à l’informatique, aux fichiers et aux libertés, toute personne peut obtenir communication et, le cas échéant, rectification ou suppression des informations la concernant, en s’adressant aux organisateurs.
-

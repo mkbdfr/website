@@ -43,7 +43,6 @@ img: meetup-banner.jpg
 
 Cette septième édition du meetup se déroulera dans les locaux de Partoo [130 Rue du Mont-Cenis 75018 Paris](https://g.page/partoo?share/).
 
-
 ## Quand ?
 
 Date choisie : **3 septembre 2022** à 14h (vous pouvez arriver plus tard nous acceptons les arrivants jusqu'à 18h) !
@@ -52,7 +51,7 @@ Date choisie : **3 septembre 2022** à 14h (vous pouvez arriver plus tard nous a
 
 Merci de bien [t'enregistrer](https://www.eventbrite.fr/e/billets-mechanical-keyboards-paris-7-395810127747) et de te munir d'une pièce d'identité pour ne pas qu'on te refuse l'entrée !
 
-Pour cet événements des afficionados de claviers de toutes les régions de France, de Navarre (et même d'ailleurs) vont se retrouver pour montrer et discuter de claviers mécaniques. 
+Pour cet événements des afficionados de claviers de toutes les régions de France, de Navarre (et même d'ailleurs) vont se retrouver pour montrer et discuter de claviers mécaniques.
 
 Que tu sois un passionné confirmé ou un novice, le meetup est l'endroit parfait pour apprendre, échanger, voir ou tester de nombreux claviers.
 
@@ -119,7 +118,7 @@ This 7th edition will hosted by our sponsor Partoo [130 Rue du Mont-Cenis 75018 
 
 ## When?
 
-On the **September 3rd at 2pm (CET). Entries accepted until 6pm (CET).
+On the **September 3rd at 2pm** (CET). Entries accepted until 6pm (CET).
 
 ## How?
 
