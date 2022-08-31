@@ -19,11 +19,11 @@
 
 L'accès des participants au meetup est strictement contrôlé afin de protéger le matériel des participants.
 
-De ce fait l'accès au meetup est strictement réservé aux personnes s'étant inscrites au préalable à travers la plateforme eventbrit.com ou figurant sur la liste des participants.
+De ce fait l'accès au meetup est strictement réservé aux personnes s'étant inscrites au préalable à travers la plateforme eventbrite.com ou figurant sur la liste des participants.
 
 Les personnes inscrites doivent pouvoir justifier de leur identité sur le site eventbrite.com ainsi que pouvoir produire une pièce d’identité.
 
-Être sur la liste d’attente de donne pas accès au meetup. Être inscrit sur la liste principale ne vaut que pour soit même et ne permet pas d’amener des invités.
+Être sur la liste d’attente de donne pas accès au meetup. Être inscrit sur la liste principale ne vaut que pour soi même et ne permet pas d’amener des invités.
 
 ## Responsabilité
 
@@ -41,12 +41,12 @@ Il n’est pas permis de vendre du matériel ou clavier dans l’enceinte du mee
 
 ## Respect
 
-Certains claviers ou touches artisanales peuvent valoir plusieurs milliers d'euros.
+Certains claviers ou touches artisanales peuvent avoir une valeur sentimentale ou monétaire importante.
 
 - On ne touche pas un clavier sans avoir les mains propres
 - On ne soulève pas un clavier
 - On ne retire pas une touche d'un clavier
-- On ne mange ni boit dans la zone d’exposition des claviers
+- On ne mange pas, ne boit pas, dans la zone d’exposition des claviers
 - On respecte les autres participants, même si leur touche entrée n’a pas la bonne forme
 
 Toute forme de harcèlement pourra mener à une exclusion définitive du meetup ainsi que des suivants.
@@ -55,7 +55,7 @@ Toute forme de harcèlement pourra mener à une exclusion définitive du meetup 
 
 S’agissant des lots, la responsabilité des organisateurs est strictement limitée à la délivrance des lots effectivement et valablement gagnés. Les organisateurs ne sont ni fournisseurs, ni vendeurs, ni distributeurs des lots (leur responsabilité étant limitée à l’acte juridique de leur délivrance) et n'endossent aucune responsabilité contractuelle relative au transport, au bon fonctionnement, à l’emploi, à la conformité aux normes auxquelles ils sont éventuellement soumis ou à la sécurité d’utilisation des lots attribués.
 
-Les organisateurs se dégagent de toute responsabilité relative à une éventuelle insatisfaction des gagnants concernant leurs lots. Faut pas pousser quand même.
+Les organisateurs se dégagent de toute responsabilité relative à une éventuelle insatisfaction des gagnants concernant leurs lots.
 
 ## Droit à l’image
 
