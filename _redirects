@@ -1,0 +1,5 @@
+https://mechanical-keyboards.fr/* https://claviers-mecaniques.fr/:splat 301!
+https://mkbd.fr/* https://claviers-mecaniques.fr/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://quirky-sammet-4e449c.netlify.com/* https://claviers-mecaniques.fr/:splat 301!
